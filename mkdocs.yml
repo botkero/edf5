@@ -2,6 +2,8 @@ site_name: Earth Defense Force - Wiki
 
 theme:
   name: material
+  logo: images/edf5_logo_small.png
+  favicon: images/edf5_logo_small.png
   features:
     - navigation.indexes
     # - navigation.sections
@@ -50,6 +52,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - glightbox
+  - glightbox:
+      skip_classes:
+          - skip-lightbox
   - git-revision-date-localized
 

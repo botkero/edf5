@@ -1,9 +1,10 @@
 # Wing Diver
 
-Velit Lorem excepteur eiusmod enim pariatur incididunt pariatur do fugiat. Eiusmod id sunt deserunt exercitation ea est eiusmod commodo voluptate ullamco ea amet elit esse. Adipisicing duis reprehenderit adipisicing sint laborum. Ipsum ullamco minim laborum qui pariatur dolor sit dolore aliqua est. Anim Lorem nulla proident elit non quis nulla velit excepteur laborum exercitation.
+![Wing Diver](../images/edf_intro_main02.png)
 
-Enim consequat adipisicing id esse exercitation. Tempor sit do laboris qui irure. Labore dolore minim pariatur ad ad proident. Ut et esse excepteur aliquip adipisicing deserunt duis sint mollit consectetur id tempor Lorem consequat. Ex nulla ipsum duis nisi sunt sint commodo aliquip. Veniam excepteur deserunt aute dolor id proident ipsum et ad velit.
+Flight soldiers equipped with flight-units.
+Elite troops consisted only for women. They fly across the sky using energy weapons that don't require ammunitions.
+Compared to Rangers, their armor or sustainability is next to nothing, but they make up for it with their superb mobility and powerful weapons.
 
-Lorem eiusmod do aliqua incididunt et irure. Amet quis ad laborum nostrud exercitation labore Lorem minim. Ea ad incididunt aute commodo Lorem. Pariatur minim quis velit aliqua amet anim. Aliqua do nostrud irure anim duis officia minim ea ut labore. Commodo magna anim enim esse commodo nulla duis consequat culpa est esse et in adipisicing. Consequat eiusmod enim eiusmod in quis.
-
-Minim aliquip sit consectetur veniam adipisicing ex excepteur do nisi enim eiusmod laborum. Consequat nulla sit reprehenderit officia minim. Consequat aliqua nisi elit mollit aute nostrud nulla aliquip laborum adipisicing exercitation nisi amet excepteur. Non adipisicing amet est nulla ad consequat Lorem quis consequat sit. Cupidatat esse duis in velit laborum proident fugiat aliqua laboris cillum. Elit irure duis laboris cupidatat eu irure. Excepteur ex consectetur culpa consectetur fugiat dolor proident sit anim aliqua magna nisi.
+![Wing Diver](../images/edf_intro_main02_thum01.jpg)
+![Wing Diver](../images/edf_intro_main02_thum02.jpg)
