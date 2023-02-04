@@ -35,7 +35,7 @@ Dolore irure labore consequat culpa in ipsum occaecat laboris occaecat sint offi
 ## Landing Ship
 
 <figure markdown>
-  ![Landing Ship](../../../images/intro_primer_main07.png){ .off-glb style="width: 50vh;"}
+  ![Landing Ship](../../images/intro_primer_main07.png){ .off-glb style="width: 50vh;"}
 </figure>
 
 The armored flying vehicle of the Primers.
@@ -44,8 +44,9 @@ It has never been reported to be taken down as of date, which indicates that it 
 The ship has not been reported to be armed as of date.
 Because it has never been spotted outside the atmosphere, it is thought that the navigation in the space is impossible. 
 
-![Landing Ship](../../../images/intro_primer_main07_thum01.jpg){ data-gallery="landing_ship" }
-![Landing Ship](../../../images/intro_primer_main07_thum02.jpg){ data-gallery="landing_ship" }
+
+![Landing Ship](../../images/intro_primer_main07_thum01.jpg){ data-gallery="landing_ship" }
+![Landing Ship](../../images/intro_primer_main07_thum02.jpg){ data-gallery="landing_ship" }
 
 ## Outpost Base
 
@@ -54,10 +55,10 @@ Adipisicing cillum minim est pariatur officia velit deserunt esse id. Ea proiden
 ## Mothership
 
 <figure markdown>
-  ![Mothership](../../../images/intro_primer_main13.png){ .off-glb style="width: 50vh;"}
+  ![Mothership](../../images/intro_primer_main13.png){ .off-glb style="width: 50vh;"}
 </figure>
 
 The most massive round-shaped space ships that have appeared on earth. 10 ships have been identified so far.
 They function as bases of the invasion in various parts of the planet. None of them have been destroyed or even been damaged as of date.
 
-![Mothership](../../../images/intro_primer_main13_thum01.jpg){ data-gallery="Mothership" }
+![Mothership](../../images/intro_primer_main13_thum01.jpg){ data-gallery="Mothership" }

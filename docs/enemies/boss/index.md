@@ -27,7 +27,7 @@ Eiusmod consequat ex excepteur mollit culpa labore non. Fugiat amet ullamco exce
 ## Ergnius
 
 <figure markdown>
-  ![Ergnius](../../../images/intro_primer_main12.png){ .off-glb style="width: 50vh;" }
+  ![Ergnius](../../images/intro_primer_main12.png){ .off-glb style="width: 50vh;" }
 </figure>
 
 A super-giant creature that appears similar to ancient dinosaurs. It is believed that Primers brought this to earth.
@@ -36,13 +36,13 @@ The detailed habit is also unknown.
 
 Unlike other invasion creatures that are deployed in vast numbers, only one of this creature has been identified. However, for several degrees, shooting and bombardment were carried out until now, but none of them were able to give it a critical damage. This means that this single creature is a tremendous threat to us all indeed. An effective offensive operation is urgently required.
 
-![Ergnius](../../../images/intro_primer_main12_thum01.jpg){ data-gallery="Ergnius" }
-![Ergnius](../../../images/intro_primer_main12_thum02.jpg){ data-gallery="Ergnius" }
+![Ergnius](../../images/intro_primer_main12_thum01.jpg){ data-gallery="Ergnius" }
+![Ergnius](../../images/intro_primer_main12_thum02.jpg){ data-gallery="Ergnius" }
 
 ## Archelus
 
 <figure markdown>
-  ![Archelus](../../../images/intro_primer_main11.png){ .off-glb style="width: 50vh;" }
+  ![Archelus](../../images/intro_primer_main11.png){ .off-glb style="width: 50vh;" }
 </figure>
 
 A second super-giant creature identified after Erginus. It is thought to be much more powerful than Erginus.
@@ -52,8 +52,8 @@ During initial engagement, Archelus was spotted firing burning rocks from its ba
 This indicates that it possesses materials with temperature high enough to produce fire in its body.
 Since no such life form exists on earth, this creature is truly beyond our imagination.
 
-![Archelus](../../../images/intro_primer_main11_thum01.jpg){ data-gallery="Archelus" }
-![Archelus](../../../images/intro_primer_main11_thum02.jpg){ data-gallery="Archelus" }
+![Archelus](../../images/intro_primer_main11_thum01.jpg){ data-gallery="Archelus" }
+![Archelus](../../images/intro_primer_main11_thum02.jpg){ data-gallery="Archelus" }
 
 ## Nameless (God)
 
