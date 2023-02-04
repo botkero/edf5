@@ -1,6 +1,8 @@
 # Wing Diver
 
-![Wing Diver](../images/edf_intro_main02.png)
+<figure markdown>
+![Wing Diver](../images/edf_intro_main02.png){ .off-glb style="width: 50vh;"}
+</figure>
 
 Flight soldiers equipped with flight-units.
 Elite troops consisted only for women. They fly across the sky using energy weapons that don't require ammunitions.

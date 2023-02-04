@@ -1,6 +1,8 @@
 # Air Raider
 
-![Air Raider](../images/edf_intro_main04.png)
+<figure markdown>
+![Air Raider](../images/edf_intro_main04.png){ .off-glb style="width: 50vh;"}
+</figure>
 
 In late years, the street wars with the hit squads were happening frequently.
 Meanwhile, the number of casualties at every battle have been increasing due to the insufficient visibility and difficulty of providing effective air support in urban warfare.

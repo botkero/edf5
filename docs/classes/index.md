@@ -1,9 +1,6 @@
 # Classes
 
-Nulla irure non quis aliquip incididunt. Culpa incididunt magna est aute excepteur irure minim mollit nostrud in dolore esse. Ex laborum adipisicing consectetur aute magna quis officia laborum enim mollit aliqua. Consequat consequat Lorem ea mollit exercitation velit nisi laborum qui officia quis ex enim. Proident sit enim irure reprehenderit sit do et occaecat nostrud voluptate. Fugiat ad in ea esse.
-
-Ex elit exercitation esse dolore do aliquip. Tempor et anim ex et proident anim proident anim. Qui minim cillum nisi nostrud ut in. Sunt proident sint ut magna deserunt ipsum incididunt minim ea velit. Dolor aute fugiat nulla occaecat laboris incididunt dolor et consectetur cupidatat do labore magna cillum. Quis sit ex tempor occaecat proident tempor commodo. Lorem ex aliquip anim ullamco sunt nisi proident cillum laborum fugiat.
-
-Ipsum labore nisi cupidatat qui reprehenderit reprehenderit do elit labore. Irure do dolore nisi pariatur laborum consectetur reprehenderit eiusmod non quis tempor. Minim culpa occaecat Lorem cupidatat cupidatat eu elit est proident eiusmod ad et proident. Nulla et et aliqua cillum tempor minim nostrud fugiat. Elit sit sunt nulla sunt est reprehenderit deserunt incididunt voluptate duis.
-
-Sint ex nostrud officia deserunt deserunt irure consectetur exercitation incididunt culpa velit nostrud consequat. Ea elit sunt aliqua sit anim magna quis aliquip non. Sint officia nulla adipisicing nulla voluptate duis officia Lorem exercitation nisi labore. Fugiat incididunt pariatur consectetur ut fugiat adipisicing duis anim exercitation veniam sunt aute deserunt sunt. Ex culpa ut velit non exercitation laborum eu sint Lorem elit ut consequat enim. Velit laboris aliqua laborum non qui quis ut elit magna consectetur consequat enim laborum. Ex reprehenderit consectetur est irure aliqua ipsum laborum ipsum dolore duis aliqua exercitation.
+[![Ranger](../images/edf_intro_main01.png){ .off-glb }](ranger.md)
+[![Wing Diver](../images/edf_intro_main02.png){ .off-glb }](wing_diver.md)
+[![Fencer](../images/edf_intro_main03.png){ .off-glb }](fencer.md)
+[![Air-Raider](../images/edf_intro_main04.png){ .off-glb }](air_raider.md)

@@ -1,6 +1,8 @@
 # Fencer
 
-![Fencer](../images/edf_intro_main03.png)
+<figure markdown>
+  ![Fencer](../images/edf_intro_main03.png){ .off-glb style="width: 50vh;"}
+</figure>
 
 Soldiers who are equipped with military exoskeleton called the "Powered Skeleton".
 With physical strengths exceeding 1 ton, they are capable of holding super-heavy firearms, effectively turning them into walking tanks.

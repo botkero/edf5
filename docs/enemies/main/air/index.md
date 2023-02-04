@@ -4,11 +4,18 @@
 
 Flying Aggressor
 
+<figure markdown>
+  ![Flying Aggressor](../../../images/intro_primer_main05.png){ .off-glb style="width: 50vh;"}
+</figure>
+
 Since it was the first time to identify aggressors with flight capabilities, their threat level were thought to surpass that of "α" and "β". They have spread across the world in seconds after they were first spotted at South America. Since they are able to fly, their spread of contamination or the speed of pollution is very rapid.
 They are major threat to civilians because wide area will be put in danger very quickly. Their extermination should be given top priority. Their combat capabilities are very high and they emit needle-like tissue in midair.
 Those can even penetrate AFV armored vehicles.
 Despite their enormous size, they can move very quickly.
-Considering the fact that the helicopter attacking units have been completely destroyed by them, their aerial combat skills must be much greater than predicted. 
+Considering the fact that the helicopter attacking units have been completely destroyed by them, their aerial combat skills must be much greater than predicted.
+
+![Flying Aggressor](../../../images/intro_primer_main05_thum01.jpg){ data-gallery="bee" }
+![Flying Aggressor](../../../images/intro_primer_main05_thum02.jpg){ data-gallery="bee" }
 
 ## Red Bee
 
@@ -18,10 +25,17 @@ Quis quis excepteur non nostrud sint mollit duis mollit ea. Officia et minim ess
 
 Winged Flying Aggressor
 
+<figure markdown>
+  ![Winged Flying Aggressor](../../../images/intro_primer_main06.png){ .off-glb style="width: 50vh;"}
+</figure>
+
 Alien creatures which can fly.
 They are much different in appearance from other aggressors. Since their actions indicate sign of intelligence, their nature is thought to be much more closer to an alien species than other monstrous creatures.
 
-One hypothesis states that they are the immature form of alien species. If that is true, then the fact that they metamorphose themselves into a humanoid form in the aging process is truly astonishing. 
+One hypothesis states that they are the immature form of alien species. If that is true, then the fact that they metamorphose themselves into a humanoid form in the aging process is truly astonishing.
+
+![Winged Flying Aggressor](../../../images/intro_primer_main06_thum01.jpg){ data-gallery="tadpole" }
+![Winged Flying Aggressor](../../../images/intro_primer_main06_thum02.jpg){ data-gallery="tadpole" }
 
 ## small Tadpoles
 

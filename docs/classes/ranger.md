@@ -1,6 +1,8 @@
 # Ranger
 
-![Ranger](../images/edf_intro_main01.png)
+<figure markdown>
+![Ranger](../images/edf_intro_main01.png){ .off-glb style="width: 50vh;"}
+</figure>
 
 The generic name of the main infantry force of EDF.
 Their specialty is in combat skills using variety of firearms.
