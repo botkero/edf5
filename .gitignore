@@ -1,6 +1,5 @@
 .vscode/
 __pycache__/
 data/
-test.md
 docs/missions/mission/createmissions.py
 EDFweapons/
