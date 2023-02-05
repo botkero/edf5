@@ -30,7 +30,7 @@ Although mobility declines when they lose hands and legs in a battle, they are a
 ## Cosmonouts
 
 <figure markdown>
-  ![Cosmonouts](../../../images/intro_primer_main10.png){ .off-glb style="width: 50vh;" }
+  ![Cosmonouts](../../images/intro_primer_main10.png){ .off-glb style="width: 50vh;" }
 </figure>
 
 
