@@ -54,9 +54,11 @@ markdown_extensions:
       format: svg
 
 plugins:
+  - include-markdown
   - search
   - glightbox:
       skip_classes:
           - skip-lightbox
   - git-revision-date-localized
+
 
