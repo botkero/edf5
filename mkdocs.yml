@@ -49,9 +49,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - plantuml_markdown:
-      server: http://www.plantuml.com/plantuml
-      format: svg
 
 plugins:
   - include-markdown
