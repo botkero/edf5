@@ -15,13 +15,13 @@
 ## 2. Crisis in Base 228: Part 1
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M003.jpg){ .off-glb loading=lazy }](crisis_in_base_228_part_1.md)
+  [![Crisis in Base 228: Part 1](../images/missions_thumbnails/M003.jpg){ .off-glb loading=lazy }](crisis_in_base_228_part_1.md)
 </figure>
 
 ## 3. Crisis in Base 228: Part 2
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M004.jpg){ .off-glb loading=lazy }](crisis_in_base_228_part_2.md)
+  [![Crisis in Base 228: Part 2](../images/missions_thumbnails/M004.jpg){ .off-glb loading=lazy }](crisis_in_base_228_part_2.md)
 </figure>
 
 ## 4. Shattered peace
@@ -63,7 +63,7 @@
 ## 10. Burning Sky
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M015_2.jpg){ .off-glb loading=lazy }](burning_sky.md)
+  [![Burning Sky](../images/missions_thumbnails/M015_2.jpg){ .off-glb loading=lazy }](burning_sky.md)
 </figure>
 
 ## 11. Spreading Disaster
@@ -87,7 +87,7 @@
 ## 14. Destroy the Giant Ship
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M010.jpg){ .off-glb loading=lazy }](destroy_the_giant_ship.md)
+  [![Destroy the Giant Ship](../images/missions_thumbnails/M010.jpg){ .off-glb loading=lazy }](destroy_the_giant_ship.md)
 </figure>
 
 ## 15. Isolation
@@ -153,7 +153,7 @@
 ## 25. Artillery Unit
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M023.jpg){ .off-glb loading=lazy }](artillery_unit.md)
+  [![Artillery Unit](../images/missions_thumbnails/M023.jpg){ .off-glb loading=lazy }](artillery_unit.md)
 </figure>
 
 ## 26. Sniper Team
@@ -177,37 +177,37 @@
 ## 29. Destroy the Outpost: Plan A
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M020_5.jpg){ .off-glb loading=lazy }](destroy_the_outpost_plan_a.md)
+  [![Destroy the Outpost: Plan A](../images/missions_thumbnails/M020_5.jpg){ .off-glb loading=lazy }](destroy_the_outpost_plan_a.md)
 </figure>
 
 ## 30. Destroy the Outpost: Plan B
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M021.jpg){ .off-glb loading=lazy }](destroy_the_outpost_plan_b.md)
+  [![Destroy the Outpost: Plan B](../images/missions_thumbnails/M021.jpg){ .off-glb loading=lazy }](destroy_the_outpost_plan_b.md)
 </figure>
 
 ## 31. Cave Invasion Stage 1
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M027.jpg){ .off-glb loading=lazy }](cave_invasion_stage_1.md)
+  [![Cave Invasion Stage 1](../images/missions_thumbnails/M027.jpg){ .off-glb loading=lazy }](cave_invasion_stage_1.md)
 </figure>
 
 ## 32. Cave Invasion Stage 2
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M028.jpg){ .off-glb loading=lazy }](cave_invasion_stage_2.md)
+  [![Cave Invasion Stage 2](../images/missions_thumbnails/M028.jpg){ .off-glb loading=lazy }](cave_invasion_stage_2.md)
 </figure>
 
 ## 33. Cave Invasion Final Stage
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M029.jpg){ .off-glb loading=lazy }](cave_invasion_final_stage.md)
+  [![Cave Invasion Final Stage](../images/missions_thumbnails/M029.jpg){ .off-glb loading=lazy }](cave_invasion_final_stage.md)
 </figure>
 
 ## 34. Berth
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M020.jpg){ .off-glb loading=lazy }](berth.md)
+  [![Berth](../images/missions_thumbnails/M020.jpg){ .off-glb loading=lazy }](berth.md)
 </figure>
 
 ## 35. Flying Killers
@@ -231,19 +231,19 @@
 ## 38. Current Headquarters
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M034_3.jpg){ .off-glb loading=lazy }](current_headquarters.md)
+  [![Current Headquarters](../images/missions_thumbnails/M034_3.jpg){ .off-glb loading=lazy }](current_headquarters.md)
 </figure>
 
 ## 39. Brutal Battlefield
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M034_5.jpg){ .off-glb loading=lazy }](brutal_battlefield.md)
+  [![Brutal Battlefield](../images/missions_thumbnails/M034_5.jpg){ .off-glb loading=lazy }](brutal_battlefield.md)
 </figure>
 
 ## 40. Assaulting the Outpost
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M035.jpg){ .off-glb loading=lazy }](assaulting_the_outpost.md)
+  [![Assaulting the Outpost](../images/missions_thumbnails/M035.jpg){ .off-glb loading=lazy }](assaulting_the_outpost.md)
 </figure>
 
 ## 41. Saving Europe: Operation 1
@@ -258,16 +258,16 @@
   [![Today's schedule](../images/missions_thumbnails/M033.jpg){ .off-glb loading=lazy }](saving_europe_operation_2.md)
 </figure>
 
-## 43. Culling the FlyingType
+## 43. Culling the Flying Type
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M037.jpg){ .off-glb loading=lazy }](culling_the_flyingtype.md)
+  [![Today's schedule](../images/missions_thumbnails/M037.jpg){ .off-glb loading=lazy }](culling_the_flying_type.md)
 </figure>
 
 ## 44. Circle Formation
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M031.jpg){ .off-glb loading=lazy }](circle_formation.md)
+  [![Circle Formation](../images/missions_thumbnails/M031.jpg){ .off-glb loading=lazy }](circle_formation.md)
 </figure>
 
 ## 45. Giant Ship Attack : 2nd Attempt
@@ -291,19 +291,19 @@
 ## 48. Airborne Fighters: Part 1
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M047.jpg){ .off-glb loading=lazy }](airborne_fighters_part_1.md)
+  [![Airborne Fighters: Part 1](../images/missions_thumbnails/M047.jpg){ .off-glb loading=lazy }](airborne_fighters_part_1.md)
 </figure>
 
 ## 49. Airborne Fighters: Part 2
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M047_2.jpg){ .off-glb loading=lazy }](airborne_fighters_part_2.md)
+  [![Airborne Fighters: Part 2](../images/missions_thumbnails/M047_2.jpg){ .off-glb loading=lazy }](airborne_fighters_part_2.md)
 </figure>
 
 ## 50. Attacking the Fleet
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M091.jpg){ .off-glb loading=lazy }](attacking_the_fleet.md)
+  [![Attacking the Fleet](../images/missions_thumbnails/M091.jpg){ .off-glb loading=lazy }](attacking_the_fleet.md)
 </figure>
 
 ## 51. Underground Trap
@@ -351,7 +351,7 @@
 ## 58. Break the Barrier
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M050.jpg){ .off-glb loading=lazy }](break_the_barrier.md)
+  [![Break the Barrier](../images/missions_thumbnails/M050.jpg){ .off-glb loading=lazy }](break_the_barrier.md)
 </figure>
 
 ## 59. Mountain Investigation
@@ -363,7 +363,7 @@
 ## 60. Destroying Large Flying Saucers
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M091_2.jpg){ .off-glb loading=lazy }](destroying_large_flying_saucers.md)
+  [![Destroying Large Flying Saucers](../images/missions_thumbnails/M091_2.jpg){ .off-glb loading=lazy }](destroying_large_flying_saucers.md)
 </figure>
 
 ## 61. Sweeping Monster Balls
@@ -405,7 +405,7 @@
 ## 67. Crashing Giant Pylons
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M065.jpg){ .off-glb loading=lazy }](crashing_giant_pylons.md)
+  [![Crashing Giant Pylons](../images/missions_thumbnails/M065.jpg){ .off-glb loading=lazy }](crashing_giant_pylons.md)
 </figure>
 
 ## 68. Enormous Mutants
@@ -417,19 +417,19 @@
 ## 69. Aircrafts
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M046_3.jpg){ .off-glb loading=lazy }](aircrafts.md)
+  [![Aircrafts](../images/missions_thumbnails/M046_3.jpg){ .off-glb loading=lazy }](aircrafts.md)
 </figure>
 
 ## 70. Anchors Destruction Plan
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M091_3.jpg){ .off-glb loading=lazy }](anchors_destruction_plan.md)
+  [![Anchors Destruction Plan](../images/missions_thumbnails/M091_3.jpg){ .off-glb loading=lazy }](anchors_destruction_plan.md)
 </figure>
 
 ## 71. Battle in the Fog
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M201.jpg){ .off-glb loading=lazy }](battle_in_the_fog.md)
+  [![Battle in the Fog](../images/missions_thumbnails/M201.jpg){ .off-glb loading=lazy }](battle_in_the_fog.md)
 </figure>
 
 ## 72. Light Defenses
@@ -459,7 +459,7 @@
 ## 76. Doomed Queens
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M074.jpg){ .off-glb loading=lazy }](doomed_queens.md)
+  [![Doomed Queens](../images/missions_thumbnails/M074.jpg){ .off-glb loading=lazy }](doomed_queens.md)
 </figure>
 
 ## 77. Monster Extermination
@@ -495,13 +495,13 @@
 ## 82. Defeat Archelus
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M072_4.jpg){ .off-glb loading=lazy }](defeat_archelus.md)
+  [![Defeat Archelus](../images/missions_thumbnails/M072_4.jpg){ .off-glb loading=lazy }](defeat_archelus.md)
 </figure>
 
 ## 83. City of Giant Pylons
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M064.jpg){ .off-glb loading=lazy }](city_of_giant_pylons.md)
+  [![City of Giant Pylons](../images/missions_thumbnails/M064.jpg){ .off-glb loading=lazy }](city_of_giant_pylons.md)
 </figure>
 
 ## 84. Incomming Larvae
@@ -519,7 +519,7 @@
 ## 86. Approaching Monster Balls
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M063.jpg){ .off-glb loading=lazy }](approaching_monster_balls.md)
+  [![Approaching Monster Balls](../images/missions_thumbnails/M063.jpg){ .off-glb loading=lazy }](approaching_monster_balls.md)
 </figure>
 
 ## 87. Threads Everywhere
@@ -537,7 +537,7 @@
 ## 89. Broken Land
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M049.jpg){ .off-glb loading=lazy }](broken_land.md)
+  [![Broken Land](../images/missions_thumbnails/M049.jpg){ .off-glb loading=lazy }](broken_land.md)
 </figure>
 
 ## 90. Sparking Abyss
@@ -549,7 +549,7 @@
 ## 91. Attack of the Flying Fleet
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M069.jpg){ .off-glb loading=lazy }](attack_of_the_flying_fleet.md)
+  [![Attack of the Flying Fleet](../images/missions_thumbnails/M069.jpg){ .off-glb loading=lazy }](attack_of_the_flying_fleet.md)
 </figure>
 
 ## 92. Mountain Traps
@@ -561,13 +561,13 @@
 ## 93. Bloody Battle
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M075.jpg){ .off-glb loading=lazy }](bloody_battle.md)
+  [![Bloody Battle](../images/missions_thumbnails/M075.jpg){ .off-glb loading=lazy }](bloody_battle.md)
 </figure>
 
 ## 94. Drop Location
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M066.jpg){ .off-glb loading=lazy }](drop_location.md)
+  [![Drop Location](../images/missions_thumbnails/M066.jpg){ .off-glb loading=lazy }](drop_location.md)
 </figure>
 
 ## 95. Land of Monsters
@@ -585,7 +585,7 @@
 ## 97. Coastal Defense Line
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M046_2.jpg){ .off-glb loading=lazy }](coastal_defense_line.md)
+  [![Coastal Defense Line](../images/missions_thumbnails/M046_2.jpg){ .off-glb loading=lazy }](coastal_defense_line.md)
 </figure>
 
 ## 98.  Intense Battle Underground
@@ -603,7 +603,7 @@
 ## 100. Crumbling city
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M090.jpg){ .off-glb loading=lazy }](crumbling_city.md)
+  [![Crumbling city](../images/missions_thumbnails/M090.jpg){ .off-glb loading=lazy }](crumbling_city.md)
 </figure>
 
 ## 101. Forced Entry
@@ -621,7 +621,7 @@
 ## 103. Against All Odds
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M070.jpg){ .off-glb loading=lazy }](against_all_odds.md)
+  [![Against All Odds](../images/missions_thumbnails/M070.jpg){ .off-glb loading=lazy }](against_all_odds.md)
 </figure>
 
 ## 104. Monster Banquet
@@ -651,7 +651,7 @@
 ## 108. Despair
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M082.jpg){ .off-glb loading=lazy }](despair.md)
+  [![Despair](../images/missions_thumbnails/M082.jpg){ .off-glb loading=lazy }](despair.md)
 </figure>
 
 ## 109. Under Siege
