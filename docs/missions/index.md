@@ -495,7 +495,7 @@
 ## 82. Defeat Archelus
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M073_4.jpg){ .off-glb }](defeat_archelus.md)
+  [![Today's schedule](../images/missions_thumbnails/M072_4.jpg){ .off-glb }](defeat_archelus.md)
 </figure>
 
 ## 83. City of Giant Pylons
