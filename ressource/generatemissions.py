@@ -149,7 +149,8 @@ for counter, mission in enumerate(missions):
         f.write("</figure>\n\n")
 
         # mission description
-        f.write(f"""{mission["value"][1]["value"]}\n""")
+        text = mission["value"][1]["value"].replace("%dq%s", "").replace("%dq%", "")
+        f.write(text + "\n")
 
 
     # print(format_filename(mission["value"][0]["value"]))
