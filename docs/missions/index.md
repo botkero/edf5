@@ -261,7 +261,7 @@
 ## 43. Culling the Flying Type
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M037.jpg){ .off-glb loading=lazy }](culling_the_flying_type.md)
+  [![Today's schedule](../images/missions_thumbnails/M037.jpg){ .off-glb loading=lazy }](culling_the_flying-type.md)
 </figure>
 
 ## 44. Circle Formation
@@ -273,7 +273,7 @@
 ## 45. Giant Ship Attack : 2nd Attempt
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M041.jpg){ .off-glb loading=lazy }](giant_ship_attack_2nd_attempt.md)
+  [![Today's schedule](../images/missions_thumbnails/M041.jpg){ .off-glb loading=lazy }](giant_ship_attack__2nd_attempt.md)
 </figure>
 
 ## 46. Survivors
@@ -318,10 +318,10 @@
   [![Today's schedule](../images/missions_thumbnails/M042_2.jpg){ .off-glb loading=lazy }](the_army_group_raid.md)
 </figure>
 
-## 53. Wirepuller
+## 53. Wire-puller
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M030.jpg){ .off-glb loading=lazy }](wirepuller.md)
+  [![Today's schedule](../images/missions_thumbnails/M030.jpg){ .off-glb loading=lazy }](wire-puller.md)
 </figure>
 
 ## 54. Hiding Behind the Web
@@ -372,10 +372,10 @@
   [![Today's schedule](../images/missions_thumbnails/M061.jpg){ .off-glb loading=lazy }](sweeping_monster_balls.md)
 </figure>
 
-## 62. Recapture the Industrial Area
+## 62. Recapturing the Industrial Area
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M043.jpg){ .off-glb loading=lazy }](recapture_the_industrial_area.md)
+  [![Today's schedule](../images/missions_thumbnails/M043.jpg){ .off-glb loading=lazy }](recapturing_the_industrial_area.md)
 </figure>
 
 ## 63. Winged Legion
@@ -489,7 +489,7 @@
 ## 81. Reclaiming Base 228: Retreat
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M072_3.jpg){ .off-glb loading=lazy }](reclaiming_base_228_stage_retreat.md)
+  [![Today's schedule](../images/missions_thumbnails/M072_3.jpg){ .off-glb loading=lazy }](reclaiming_base_228_retreat.md)
 </figure>
 
 ## 82. Defeat Archelus
@@ -504,10 +504,10 @@
   [![City of Giant Pylons](../images/missions_thumbnails/M064.jpg){ .off-glb loading=lazy }](city_of_giant_pylons.md)
 </figure>
 
-## 84. Incomming Larvae
+## 84. Incoming Larvae
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M059.jpg){ .off-glb loading=lazy }](incomming_larvae.md)
+  [![Today's schedule](../images/missions_thumbnails/M059.jpg){ .off-glb loading=lazy }](incoming_larvae.md)
 </figure>
 
 ## 85. Secret in the Dark
@@ -528,10 +528,10 @@
   [![Today's schedule](../images/missions_thumbnails/M054.jpg){ .off-glb loading=lazy }](threads_everywhere.md)
 </figure>
 
-## 88. Flyingtype Extermination
+## 88. Flying-type Extermination
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M039.jpg){ .off-glb loading=lazy }](flyingtype_extermination.md)
+  [![Today's schedule](../images/missions_thumbnails/M039.jpg){ .off-glb loading=lazy }](flying-type_extermination.md)
 </figure>
 
 ## 89. Broken Land
@@ -540,10 +540,10 @@
   [![Broken Land](../images/missions_thumbnails/M049.jpg){ .off-glb loading=lazy }](broken_land.md)
 </figure>
 
-## 90. Sparking Abyss
+## 90. Sparkling Abyss
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M062.jpg){ .off-glb loading=lazy }](sparking_abyss.md)
+  [![Today's schedule](../images/missions_thumbnails/M062.jpg){ .off-glb loading=lazy }](sparkling_abyss.md)
 </figure>
 
 ## 91. Attack of the Flying Fleet
@@ -663,7 +663,7 @@
 ## 110. No.11
 
 <figure markdown>
-  [![Today's schedule](../images/missions_thumbnails/M098.jpg){ .off-glb loading=lazy }](no.11.md)
+  [![Today's schedule](../images/missions_thumbnails/M098.jpg){ .off-glb loading=lazy }](no_11.md)
 </figure>
 
 ## 111. The Nameless
