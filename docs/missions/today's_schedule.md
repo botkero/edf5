@@ -1,6 +1,8 @@
 # Today's Schedule
 
+<figure markdown>
 ![Today's Schedule](../images/missions_thumbnails/M000.jpg)
+</figure>
 
 Today you're assigned to Base 228. After arrival, please follow the staff's instruction and confirm your duties. 
 

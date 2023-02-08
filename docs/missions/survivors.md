@@ -1,6 +1,8 @@
 # Survivors
 
+<figure markdown>
 ![Survivors](../images/missions_thumbnails/M042.jpg)
+</figure>
 
 Our units got attacked by the aliens and disintegrated. The survivors seem to scatter around hiding in the buildings.
 Fortunately, the aliens are huge in size, so it's unlikely for them to find out everyone inside the buildings.

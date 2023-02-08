@@ -1,6 +1,8 @@
 # Saving Europe: Operation 1
 
+<figure markdown>
 ![Saving Europe: Operation 1](../images/missions_thumbnails/M007_5.jpg)
+</figure>
 
 Please participate the monster mop-up operation in Europe.
 

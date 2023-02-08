@@ -143,8 +143,10 @@ for counter, mission in enumerate(missions):
         f.write(f"""# {mission["value"][0]["value"]}\n\n""")
 
         # image
+        f.write("<figure markdown>\n")
         image = f"""![{mission["value"][0]["value"]}]""" + links[counter]
-        f.write(image + "\n\n")
+        f.write(image+"\n")
+        f.write("</figure>\n\n")
 
         # mission description
         f.write(f"""{mission["value"][1]["value"]}\n""")

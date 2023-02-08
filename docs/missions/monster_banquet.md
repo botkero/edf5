@@ -1,6 +1,8 @@
 # Monster Banquet
 
+<figure markdown>
 ![Monster Banquet](../images/missions_thumbnails/M078.jpg)
+</figure>
 
 There are monsters in the city.
 We are incapable of deploying a massive fighting force. We request the troops close to the scene to deal with the situation.

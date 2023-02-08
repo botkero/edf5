@@ -1,6 +1,8 @@
 # Destroy the Giant Ship
 
+<figure markdown>
 ![Destroy the Giant Ship](../images/missions_thumbnails/M010.jpg)
+</figure>
 
 We're about to commence attack on the Motherships that are hovering over the city. We suspect they keep themselves low in order to drop monsters.
 

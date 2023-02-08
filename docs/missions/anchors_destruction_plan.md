@@ -1,6 +1,8 @@
 # Anchors Destruction Plan
 
+<figure markdown>
 ![Anchors Destruction Plan](../images/missions_thumbnails/M091_3.jpg)
+</figure>
 
 A lot of teleportation anchors crashed into the city and a horde of monsters now show up.
 The nearby areas are completely under the monsters' control. It's unlikely to wipe them out depending on the infantry unit alone. Therefore, we are deploying powered exoskeletons to destroy those anchors.

@@ -1,6 +1,8 @@
 # Brutal Battlefield
 
+<figure markdown>
 ![Brutal Battlefield](../images/missions_thumbnails/M034_5.jpg)
+</figure>
 
 The enemy army is closing in.
 We are on our last leg.

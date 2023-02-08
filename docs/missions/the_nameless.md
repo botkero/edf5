@@ -1,6 +1,8 @@
 # The Nameless
 
+<figure markdown>
 ![The Nameless](../images/missions_thumbnails/M099.jpg)
+</figure>
 
 The Primer's attack has stopped everywhere in the world. The ship that we shot down was actually the enemy's flagship. A lost cause turned into a surprise victory for humanity.
 But wait?!

@@ -1,6 +1,8 @@
 # Isolation
 
+<figure markdown>
 ![Isolation](../images/missions_thumbnails/M011.jpg)
+</figure>
 
 Oh, it's you!?
 It's really good to see you in one piece.

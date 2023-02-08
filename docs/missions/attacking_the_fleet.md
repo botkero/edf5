@@ -1,6 +1,8 @@
 # Attacking the Fleet
 
+<figure markdown>
 ![Attacking the Fleet](../images/missions_thumbnails/M091.jpg)
+</figure>
 
 A fleet of teleportation ships has invaded the industrial area. They stay still and low in the sky. They show no signs of activity.
 

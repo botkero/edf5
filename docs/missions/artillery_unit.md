@@ -1,6 +1,8 @@
 # Artillery Unit
 
+<figure markdown>
 ![Artillery Unit](../images/missions_thumbnails/M023.jpg)
+</figure>
 
 It was the alien artillery unit that damaged the city in the past battles. They are equipped with long-ranged weapons which can discharge artillery shells parabolically and destroy the targets regardless of the distance.
 

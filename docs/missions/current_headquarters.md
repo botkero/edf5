@@ -1,6 +1,8 @@
 # Current Headquarters
 
+<figure markdown>
 ![Current Headquarters](../images/missions_thumbnails/M034_3.jpg)
+</figure>
 
 You made it too.
 The defense line broke and my squad was utterly routed.

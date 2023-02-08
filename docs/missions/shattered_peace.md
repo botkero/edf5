@@ -1,6 +1,8 @@
 # Shattered Peace
 
+<figure markdown>
 ![Shattered Peace](../images/missions_thumbnails/M005.jpg)
+</figure>
 
 Head out to the city ahead.
 We should be able to get some rest once we get there.

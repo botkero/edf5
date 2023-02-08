@@ -1,6 +1,8 @@
 # Giant Ship Attack : 2nd Attempt
 
+<figure markdown>
 ![Giant Ship Attack : 2nd Attempt](../images/missions_thumbnails/M041.jpg)
+</figure>
 
 The motherships are now floating above the city and dropping numerous aliens.
 The surrounding areas are under their control.

@@ -1,6 +1,8 @@
 # Crisis in Base 228: Part 1
 
+<figure markdown>
 ![Crisis in Base 228: Part 1](../images/missions_thumbnails/M003.jpg)
+</figure>
 
 We did it, Civilian.
 We'll be safe once we get back to the ground.

@@ -1,6 +1,8 @@
 # Reclaiming Base 228: Stage 2
 
+<figure markdown>
 ![Reclaiming Base 228: Stage 2](../images/missions_thumbnails/M072_1.jpg)
+</figure>
 
 You have approached the base successfully.
 What comes next is the real obstacle. The base is under the enemy's control. We have to wipe out enemies on the ground first in order to sneak into the underground hangar.

@@ -1,6 +1,8 @@
 # Turning Point
 
+<figure markdown>
 ![Turning Point](../images/missions_thumbnails/M015.jpg)
+</figure>
 
 Congratulations! You are enrolled.
 
