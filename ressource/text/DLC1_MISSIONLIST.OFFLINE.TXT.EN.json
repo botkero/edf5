@@ -1,0 +1,1120 @@
+{
+  "format": "SGO",
+  "endian": "LE",
+  "version": 258,
+  "variables": [
+    {
+      "name": "table",
+      "type": "ptr",
+      "value": [
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Escape from Darkness"},
+            {
+              "type": "string",
+              "value": "The monsters came from nowhere and we don't know if there are more of them lurking in the dark. And to make it worse, we can't make contact with the ground. We're stranded at the bottom of the base.\n\nBut we can't sit around waiting. We must find the rest of our comrades and escape. I will protect you, Civilian, but I don't know what will happen. If we're in bad luck, we're going to fight the monsters. Get prepared for battle."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Crisis in Base 228: Part 1"},
+            {
+              "type": "string",
+              "value": "We did it, Civilian.\nWe'll be safe once we get back to the ground.\n\nWe have to meet up with the troops to solve this, so it's time to say goodbye.\n\nThat's what I hope to say, but don't worry. I will send you home safely."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Crisis in Base 228: Part 2"},
+            {
+              "type": "string",
+              "value": "The base is under attack by unknown hostiles and has turned into a battlefield.\n\nThere is no guarantee for your safety even if you try to hide. Now grab your gun and fight! You have what it takes to be a soldier!\n\nEh!?\nWhat's that?"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Shattered Peace"},
+            {
+              "type": "string",
+              "value": "Head out to the city ahead.\nWe should be able to get some rest once we get there.\nThe reinforcement troop should arrive soon and take care of the situation.\n\nYou'll be home soon. Don't worry."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Unidentified Flying Objects"},
+            {"type": "string", "value": "What on earth is that!?"}
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "The Quiet Threat"},
+            {
+              "type": "string",
+              "value": "The plan was to head to the city through the industrial area...but look at those flying saucers in the sky! We need to be careful."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Monsters Attack!"},
+            {
+              "type": "string",
+              "value": "We made it to the city.\nNow we can finally have some rest.\nWe're safe here, trust me.\n\nYou survived.\nYou'll get back home somehow."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Wedge of Destruction"},
+            {
+              "type": "string",
+              "value": "Damn! Monsters are here too!\nThe citizens are in danger.\nExterminate the monsters!"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Escape"},
+            {
+              "type": "string",
+              "value": "We will reach the city once we cross the mountain.\nWe should be safe there.\nI know I'm asking a lot, but you have to keep going.\nYou can rest when we get to the city."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Burning Sky"},
+            {
+              "type": "string",
+              "value": "It looks like a troop of large flying saucers is coming this way. It is trying to pass through this area and drop the monsters in the city. If it succeeds, it will result in unimaginable casualties. We must stop it here and now.\n\nThe air force is about to arrive.\nLeave the flying saucers to them.\nWe'll focus on exterminating the monsters."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Spreading Disaster"},
+            {
+              "type": "string",
+              "value": "Large flying saucers have invaded the city and are dropping monsters.\n\nDamn it! Doing as they wish!\n\nIgnore the flying saucers for now. Our priority is to exterminate the monsters so that we can save the citizens. Remember that!"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Turning Point"},
+            {
+              "type": "string",
+              "value": "Congratulations! You are enrolled.\n\nFive months have passed since the alien invasion.\nWe fought hard, but as long as the large flying saucers remain out there, our days of hardship will not be over.\n\nThose large flying saucers continue dropping monsters without mercy, and we are having a war of attrition. At this rate, it's only a matter of time till we exhaust all our resources.\nNevertheless, extinguishing monsters is our only choice.\nIf only we could find a way to destroy the large flying saucers..."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Extermination"},
+            {
+              "type": "string",
+              "value": "Monsters invaded the city out of the blue. We're caught off guard and we failed to evacuate all citizens. Please head to the site to support the extermination team. Since we haven't found large flying saucers, we have no clue how those monsters got into the city. Make sure you act with caution."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Destroy the Giant Ship"},
+            {
+              "type": "string",
+              "value": "We're about to commence attack on the Motherships that are hovering over the city. We suspect they keep themselves low in order to drop monsters.\n\nThe damage will be incalculable if we don't do something.\nThere's no time for the Air Force to come and attack. Ground units, head straight to the Motherships. Eliminate all monsters and drones.\nAfter you complete that, fire at the Motherships."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Isolation"},
+            {
+              "type": "string",
+              "value": "Oh, it's you!?\nIt's really good to see you in one piece.\nThe city is taken by the aliens. Although we managed to hide in the building and survive...the troops were disintegrated. In other words, we're left alone to the enemy. They will find us sooner or later.\nWe have to search for survivors and escape together.\nCalm down and listen to me.\nI've got an idea."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Mastermind Revealed"},
+            {
+              "type": "string",
+              "value": "The alien infantry keeps coming in. They split their main force into smaller teams and take over the territories in a greater scale.\nThe enemy infantry is also heading towards this area. We've already sent out the attack team. Please go for backup."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Secret of the Cave"},
+            {
+              "type": "string",
+              "value": "We have confirmed a cave that could be the monster's nest. We knew that monsters would move underground, but it's our first time ever to witness them lurking underground.\nWe will start investigating and commence an operation of annihilation. It's very risky to sneak into the nest...but this is crucial for us to clarify the monster ecology.\nThe vanguard will lead. If the situation allows, the follow-up forces will move in afterwards. Please meet up with the follow-up forces and wait for further instructions."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Eradication Plan"},
+            {
+              "type": "string",
+              "value": "Monsters are spotted in the city. Please eliminate them with the extermination squad.\n\nMoreover, large scale attacks on mysterious monsters are taking place in the surrounding area, so you won't have sufficient backup. We expect much from the extermination squad."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Encounters on Return"},
+            {
+              "type": "string",
+              "value": "Mission complete. Good job guys.\nNow return to the base along the shore.\nSafe journey."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Surprise Attack at Night"},
+            {
+              "type": "string",
+              "value": "The aliens have taken over the industrial area. Many important facilities are gathered here. Losing this area would be devastating to humanity and we wish to reclaim it without damaging the facilities. Since airstrikes and heavy tanks will certainly cause damages, they are excluded from the mission.\n\nThe only choice is to dispatch a few men to launch a surprise attack at night. Given the high risk, we only summon the elites. Please join force with the unit, approach and eliminate the enemy under the cover of night. And please, try your best to avoid damaging the facilities."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Scouting the Outpost"},
+            {
+              "type": "string",
+              "value": "We found a giant building in the city. This construction that rose up overnight could be the alien outpost. We will send over troops to investigate and destroy the building if possible. Please approach the building as close as you can and launch an attack."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Mountain of Wedges"},
+            {
+              "type": "string",
+              "value": "Lots of monsters are found in the mountain. There are traces of pylons crashing down, so we suspect those monsters were transmitted by the teleportation devices.\nSend over the investigation team at once. Find the pylons and destroy them."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "The Landing Ships"},
+            {
+              "type": "string",
+              "value": "The alien landing ships are heading to the city. All units near the projected path please go to the assigned site.\nMany city residents are still evacuating. If you come across aliens landing, launch a fight immediately and support the residents to evacuate."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Reinvasion"},
+            {
+              "type": "string",
+              "value": "The enemy attacked the city. We defeated them after a fierce battle, but the city was left in ruins. Our troops were worn out, so the garrison had to retreat temporarily; however, the aliens are on the verge of mounting another attack.\n\nAll units that can fight head out and engage."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Artillery Unit"},
+            {
+              "type": "string",
+              "value": "It was the alien artillery unit that damaged the city in the past battles. They are equipped with long-ranged weapons which can discharge artillery shells parabolically and destroy the targets regardless of the distance.\n\nMost of our units were destroyed by their artillery fire and the city was damaged severely. If we don't eliminate them now, we'll be put into a more difficult situation.\nIt's a risk worth taking. We will dispatch our infantry to assault the enemy artillery unit and eliminate them within a very close range. Get prepared."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Sniper Team"},
+            {
+              "type": "string",
+              "value": "We've confirmed a large number of Aggressive Alien Species β. Although they are in a completely evacuated area, it's only a few kilometers from the city. We must eliminate the enemy right there.\nThe monster extermination team has been sent to the scene. They'll destroy the enemy with rifles from range. Link up with the extermination team and offer support."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Red Drones"},
+            {
+              "type": "string",
+              "value": "This mission aims to destroy those drones flying into the city. Equip anti-air weapons and head to the site.\nWe have confirmed some red drones among ordinary ones. How they perform remains unknown, but you need to be careful."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Iron Wall"},
+            {
+              "type": "string",
+              "value": "A large number of aliens are approaching. We're supposed to avoid direct confrontation, but the evacuation progress in the city is falling behind schedule. We must stop them or they'll cause the city significant harm.\nWe will form a protective wall and prevent the enemy from invading. This is the only way.\n\nThis operation is called %dq%Iron Wall.%dq%\nLet's deploy in the areas that have completed evacuation. We will shield the citizens off from the enemy infantry."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Destroy the Outpost: Plan A"},
+            {
+              "type": "string",
+              "value": "The alien outpost has completely taken control over the surrounding areas. Since the city center is now the enemy's sphere of influence, our actions are significantly restricted. If the situation continues, we'll be forced to hand over this area. We must destroy their outpost as soon as possible.\nWe have come up with two operation plans to destroy the outpost. Let's carry out Plan A in the first stage. Should Plan A fail, we will immediately switch to Plan B.\n\nPlan A: Select several engineers and form a demolition team. They will work with the infantry unit, using a sandstorm as cover to close in on the enemy outpost and blow it up.\n\nPlan B: Launch an artillery strike with heavy tanks Titans and destroy the outpost with overwhelming fire power."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Destroy the Outpost: Plan B"},
+            {
+              "type": "string",
+              "value": "Emergency.\nThe outpost is moving...No, it's walking!\n\nLet's switch to Plan B right away, having heavy tanks launch an artillery strike and destroy the enemy outpost.\nInfantry unit, back off. \nMeet up with the heavy tank unit in the rear."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Cave Invasion Stage 1"},
+            {
+              "type": "string",
+              "value": "Large amount of monsters are confirmed to appear out of the cave we found. It's likely that the monsters reproduce deep underground. It's too dangerous to leave it that way. Let's commence operation cave invasion now.\nWhen invading the nest, the first risk you may face is encountering alien sentinels again at the location where you ran into a horde of monsters last time.\nOperation Stage 1, the vanguard should lead and take out the enemy sentinels. After the place is secured, head deep into the nest and eliminate the monsters, making way for the follow-up forces."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Cave Invasion Stage 2"},
+            {
+              "type": "string",
+              "value": "The scout found a giant chasm.\nIn order to continue to the deep end, we have to reach the bottom of the chasm. The problem is how...Fortunately, there's an earth-rock passageway in the form of a bridge reaching across the chasm. It's very narrow and dangerous, but it's still possible to get through.\n\nOperation Stage 2, the elite team will go across the narrow bridge and reach the bottom of the chasm to secure the area.\nSince the passageway is too narrow for an army to get through, we have to count on a few elites to complete the mission. Details of the route has been sent to the team leader. Please follow the instruction and act as a team."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Cave Invasion Final Stage"},
+            {
+              "type": "string",
+              "value": "This seems to be the end.\nWhat lies deep down in the nest?\nIt's time to find out.\nTread carefully."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Berth"},
+            {
+              "type": "string",
+              "value": "The teleportation ships are gathering along the shore. The ships stay low and still as if they are resting. So far, seven of them are spotted. The shore has become the enemy harbor. Compared with the number of enemy ships, there are hardely any defensive weapons, so it is perfect for assault. The infantry should be able to draw close without being noticed.\nTo avoid alerting the enemy, we'll form the attack team with minimum people. They'll rush right below the enemy ships and shoot them down. If the attacks are successfully performed, the follow-up forces will move in. Make sure to destroy all enemy ships."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Flying Killers"},
+            {
+              "type": "string",
+              "value": "Emergency! We found monsters that can fly.\nThey easily flew across the defense line and entered the city. Since the citizens didn't have enough time to evacuate, they're now defenseless.\n\nThe clock is ticking. All teams deployed nearby, please head to the scene immediately."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Monster Elimination Plan"},
+            {
+              "type": "string",
+              "value": "The airstrike on the mysterious monster Erginus has succeeded. Erginus is dying and cannot move. We're ready to launch another round of airstrike to kill it completely. We will still deploy ground forces just in case.\n\nDozens of EMCs will also join the mission. We've gone this far, the chance of failure should be less than a hundred million to one."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Plain of Conflict"},
+            {
+              "type": "string",
+              "value": "The aliens are spreading around the world. It looks like our enemy is ready for a full scale assault.\nThere are also a great amount of aliens coming at us. We need to stop them from approaching the city. Heavy tanks Titans will be deployed to form a line of defense.\nWe will be confronting an unprecedented large army, so it will be a fierce fight. However, we have a trump card. The new weapon %dq%self-propelled railguns%dq% are on the way. Hold the front line until the railguns arrive."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Current Headquarters"},
+            {
+              "type": "string",
+              "value": "You made it too.\nThe defense line broke and my squad was utterly routed.\nYou seem to be in the same situation.\n\n……\nI'm happy to see you, but I have to go.\nLook! That's the alien main force.\nIf they launch an attack, the retreating allies will be doomed.\nWe have to buy time for the infantry unit to regroup.\n\nI know this is reckless, but our allies are in great danger.\nI will go by myself. I won't drag you with me.\nSee you in the afterlife."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Brutal Battlefield"},
+            {
+              "type": "string",
+              "value": "The enemy army is closing in.\nWe are on our last leg.\nWe've lost our hope of survival.\n\nHave you still got ammo?\nYou can't take those with you to the other side.\nSo shoot it all! Send all ammo to the enemy!"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Assaulting the Outpost"},
+            {
+              "type": "string",
+              "value": "We won the tough battle and succeeded in defending this area. We not only stopped the enemy from attacking, but greatly weakened their forces. Although we have taken heavy casualties too, this is the best chance to strike back. We will round up all possible forces to destroy the enemy outpost.\n\nThe outpost is guarded by numerous cannons. Expect heavy artillery fire. This time the heavy tanks and powered exoskeletons will lead the attack. We can shield ourselves with the heavy tanks and destroy those cannons. Once the number of cannons reduces,  the anti-air artillery gets weaker, allowing air force to approach the outpost. If we can launch a double-pronged attack from both land and air, we should be able to destroy the outpost."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Saving Europe: Operation 1"},
+            {
+              "type": "string",
+              "value": "Please participate the monster mop-up operation in Europe.\n\nWe successfully defeated the aliens. Our next objective is to eradicate the monsters.\nForces around the world are trying to eliminate the monsters. Some areas were able to eradicate them, but Europe is still struggling with Aggressive Alien Species β. We were dispatched here since we defeated species β before. I think we can manage to survive without you for now. Good luck."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Saving Europe: Operation 2"},
+            {
+              "type": "string",
+              "value": "The motherships will fly over our airspace in a few hours. We suspect those motherships will drop teleportation anchors in this area. If the anchors  crash down into the city, they will cause severe casualties.\nOur first objective is to quickly destroy the anchors the moment they crash down. In order to do this, we're going to deploy our units over a wide area. The team closest to the drop location should take care of them immediately.\nWait at the designated location and swiftly destroy those dropping anchors."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Culling the Flying-type"},
+            {
+              "type": "string",
+              "value": "The flying-type is getting close to the city and they're coming in large number.\nVehicles equipped with anti-air missiles have been dispatched to the site. The anti-air missiles are proved to be effective against the flying-type.\nPowered exoskeletons will provide escort, shooting down any flying-types that approach the vehicles.\n\nPlease join the troops and offer support."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Circle Formation"},
+            {
+              "type": "string",
+              "value": "We found a team of teleportation ships. They will soon reach the sky above the city.\nAll teams deployed nearby head to the scene at once."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Giant Ship Attack : 2nd Attempt"},
+            {
+              "type": "string",
+              "value": "The motherships are now floating above the city and dropping numerous aliens.\nThe surrounding areas are under their control.\n\nPrepare for battle.\nGround force, wipe out aliens and monsters.\nReclaim the city from the enemy."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Survivors"},
+            {
+              "type": "string",
+              "value": "Our units got attacked by the aliens and disintegrated. The survivors seem to scatter around hiding in the buildings.\nFortunately, the aliens are huge in size, so it's unlikely for them to find out everyone inside the buildings.\n\nNevertheless, they can't hide forever without water and food. Those aliens will detect and kill them once they go outside. We can only pray for their safety and hope the rescue team will arrive in time."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "The Flying Saucers"},
+            {
+              "type": "string",
+              "value": "The motherships keep dropping drones in the city and damage continues to spread. Our airplanes are blocked by drones and fail to approach.\n\nWe'll send over infantry unit to commence elimination on the ground. As you evade the motherships' attack, fire at the drones in the sky."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Airborne Fighters: Part 1"},
+            {
+              "type": "string",
+              "value": "A mothership is passing over the city's sky. Mothership no.2 will launch new type battle robots and this area might be their target.\n\nInfantry units will spread widely in the city. Please dash to the scene once the new type battle robots are confirmed."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Airborne Fighters: Part 2"},
+            {
+              "type": "string",
+              "value": "Mothership no.2 continues to launch battle robots. We can imagine a bunch of robots will be dropped in the area.\n\nAll teams should search and destroy the airborne battle robots."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Attacking the Fleet"},
+            {
+              "type": "string",
+              "value": "A fleet of teleportation ships has invaded the industrial area. They stay still and low in the sky. They show no signs of activity.\n\nWe must shoot them down before they attack. But the operation mysterious monsters is on the go, more than half of the troops are away from the base, so our fighting force is very limited. We will launch a night raid with only a few soldiers.\nUse the night as cover to approach and ambush the teleportation ships."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Underground Trap"},
+            {
+              "type": "string",
+              "value": "A new monster nest is found. The vanguard has taken the lead going into the nest, but was attacked by the monsters and has to retreat. Move in, follow-up forces, search for the survivors and save them."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "The Army Group Raid"},
+            {
+              "type": "string",
+              "value": "The city is under the control of armed alien troops.\nUse buildings as cover to advance and attack those aliens."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Wire-puller"},
+            {
+              "type": "string",
+              "value": "The aliens are leading groups of monsters to strike the city. Surprisingly, there are Mother Monsters among them. It looks like that aliens have control over the Mother Monsters as well.\nWe can't just let Mother Monsters roam freely. Eliminate them at once."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Hiding behind the Web"},
+            {
+              "type": "string",
+              "value": "A new species of monster is found. They set up large webs everywhere in the city and move across those webs.\nThe extermination team is on their way, but currently we know nothing about the monsters. Please head over there and back them up."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Predators on Thread"},
+            {
+              "type": "string",
+              "value": "We have lost contact with Wing Divers that fought against Aranea. Please go for rescue at once."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Scuffle in the City"},
+            {
+              "type": "string",
+              "value": "The alien infantry has launched an attack on the city. We dispatched many powered exoskeletons to fight against them, but the battle continues till now.\n\nHead out immediately and engage the enemy."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Hidden Threat"},
+            {
+              "type": "string",
+              "value": "Monsters are in the city!\nThe residents are still evacuating. They didn't notice the monsters earlier because of the dense fog.\nDamage will increase if we don't do something. Units deployed nearby should immediately head to the scene."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Break the Barrier"},
+            {
+              "type": "string",
+              "value": "The Rangers in combat with the aliens are wiped out because the alien troops are escorted by the new weapon %dq%shield bearers.%dq%\nShield bearers are multi-legged walking machines. They're unarmed, but will produce a light shield that can block out all attacks, functioning as bunkers to protect the aliens. And this is striking: the aliens can fire through it from inside. That is to say, only the ones outside the shield will get hit. Not even airstrikes can destroy the light barrier.\nThis mission aims to send the Fencer team into the light barrier and destroy the shield bearers. Back up the Fencers."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Mountain Investigation"},
+            {
+              "type": "string",
+              "value": "We found a horde of flying-type in the mountain. It's the first time that so many monsters gather in one place. We have to get to the bottom of this.\n\nThree teams will be send over to explore the area and eliminate monsters."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Destroying Large Flying Saucers"},
+            {
+              "type": "string",
+              "value": "Multiple teleportation ships are found dropping monsters in the mountain.\n\nThe infantry unit will attack the ships from ground while the air force tries out the new weapon %dq%Hooligan cannons%dq% that are still in experimental stage to destroy those enemy ships."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Sweeping Monster Balls"},
+            {
+              "type": "string",
+              "value": "The teleportation ships are hovering over the city. And the monsters they are dropping...seem to be a new species!\nGo to the scene at once."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Recapturing the Industrial Area"},
+            {
+              "type": "string",
+              "value": "A lot of landing ships reached the industrial area which is now occupied by the aliens. Although launching a massive attack would be more optimal, we had to tone it down in order to avoid collateral damage to a nearby refinery.\nSo we'll send out an infantry unit to launch a night raid instead. They should focus only on eliminating aliens and avoid facility damage. The enemy force is made up of alien infantry and escorting shield bearers. Use night as cover and defeat all enemies."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Winged Legion"},
+            {
+              "type": "string",
+              "value": "We have the upper hand when it comes to urban warfare against aliens. The battle is still on, but it's only a matter of time to win.\nEngage the fight upon arrival."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Landing Giant Ship"},
+            {
+              "type": "string",
+              "value": "A mothership is hovering over the city and launching the aliens. We might have no chance to win, but we shouldn't abandon the surrounding area. Infantry unit will take care of the aliens. Stop the enemy from spreading."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Falling Monster Balls"},
+            {
+              "type": "string",
+              "value": "Teleportation ships are heading towards to city. Go to the site immediately."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Extraterrestrial Riders"},
+            {
+              "type": "string",
+              "value": "Alien infantry unit is attacking the city. Please join force with the powered exoskeletons and defeat enemy troops."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Crashing Giant Pylons"},
+            {
+              "type": "string",
+              "value": "The motherships launched teleportation anchors. They will be here soon.\nWe're afraid that the city will be under attack. All units, destroy each teleportation anchors falling close to you."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Enormous Mutants"},
+            {
+              "type": "string",
+              "value": "Aggressive Alien Species β have invaded the city. The Fencer team closest to the scene has gone for elimination. Go reinforce the Fencers."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Aircrafts"},
+            {
+              "type": "string",
+              "value": "Emergency support request. Our units are in battle with the new type drones and suffer from heavy casualties. Please head to the site and support.\n\nThis squad is equipped with railguns, but it's still a rather tough war. Be careful."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Anchors Destruction Plan"},
+            {
+              "type": "string",
+              "value": "A lot of teleportation anchors crashed into the city and a horde of monsters now show up.\nThe nearby areas are completely under the monsters' control. It's unlikely to wipe them out depending on the infantry unit alone. Therefore, we are deploying powered exoskeletons to destroy those anchors.\nPlease engage the battle as guerrillas and cover the powered exoskeletons."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Battle in the Fog"},
+            {
+              "type": "string",
+              "value": "The alien legion is attacking the city. Their number isn't striking, but there's thick fog lingering, we cannot dispatch tanks and helicopters.\nThe infantry unit is our only hope. You will be fighting with poor visibility, please be cautious."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Light Defenses"},
+            {
+              "type": "string",
+              "value": "A great number of teleportation anchors have landed in the urban area. Not only aliens are being transmitted, but shield bearers too. This neighborhood has been in the aliens' hand.\nAssemble a strike team at once and eliminate the enemy.\n\nOnly the infantry can destroy those anchors protected by the shield bearers. Good luck."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Flying Unit"},
+            {
+              "type": "string",
+              "value": "Europe is requesting for support!\nThe enemy flying unit now swarms into Europe and causes massive damage. Europe is in war.\n\nEven though we might be too late to back them up, we have to take actions."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Fighters Ambush"},
+            {
+              "type": "string",
+              "value": "Mothership no.2 continues to launch battle robots and a lot of them are being dropped in the area. Those robots attack without mercy, turning the city into debris.\nTo prevent damages from spreading, we'll ambush the robots on their planned route. Powered exoskeletons will join the force to shoot them down. Infantry unit, cover the powered exoskeletons."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Sieged City"},
+            {
+              "type": "string",
+              "value": "Aranea has intruded the city and intelligence reports of monster activity. All units nearby, go to the scene at once."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Doomed Queens"},
+            {
+              "type": "string",
+              "value": "Multiple queens were defending the nest of the flying-type, but suddenly all queens started to move. They led numerous flying-types to the mountain and gathered there.\nIt's likely part of their reproductive behavior. Perhaps those queens found the original nest too crowded and thus tried to find a location for a new hive. If that is the case, it's threatening. We must eliminate the queens and stop the flying-types from multiplying."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Monster Extermination"},
+            {
+              "type": "string",
+              "value": "We have confirmed a horde of monsters. They need to be wiped out before things get worse. The extermination team will be sent over with AFVs.\nPlease meet up with the extermination team, cover the AFVs, and eliminate the monsters."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Reclaiming Base 228: Stage 1"},
+            {
+              "type": "string",
+              "value": "We are about to commence the operation to reclaim Base 228. The first stage is to make sure the infantry unit can approach the base without alarming the enemy. Move on along the mountain path and reach the rear of the base."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Reclaiming Base 228: Stage 2"},
+            {
+              "type": "string",
+              "value": "You have approached the base successfully.\nWhat comes next is the real obstacle. The base is under the enemy's control. We have to wipe out enemies on the ground first in order to sneak into the underground hangar.\n\nAnd that's operation stage 2. The enemy is large in number. This is a dangerous mission, but the air force will provide cover. You can do this. Go!"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Reclaiming Base 228: Stage 3"},
+            {
+              "type": "string",
+              "value": "The ground is cleared. No wonder you're the elite troop.\nGood. Now's operation stage 3.\nLater on you'll be heading to the underground hangar. There could very well be remaining monsters. Stay alert."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Reclaiming Base 228: Retreat"},
+            {
+              "type": "string",
+              "value": "Well done. Mission complete.\nNow let's activate the crane and send Barga back to the ground.\nWe should go back too."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Defeat Archelus"},
+            {
+              "type": "string",
+              "value": "We have finished Barga's maintenance. Next we're going to eliminate Archelus.\nWe've calculated Archlus' moving path and we have decided the strike zone accordingly. All units head to the scene. If Barga arrives late, make sure you stop Archelus from moving on.\n\nBarga is being carried by a transport aircraft. Since Barga has poor mobility, we'll try to drop it as close to Archelus as possible."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "City of Giant Pylons"},
+            {
+              "type": "string",
+              "value": "Many teleportation anchors have landed in the city. They are the larger type called Big Anchors. Destroy them before they start teleporting monsters."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Incoming Larvae"},
+            {
+              "type": "string",
+              "value": "The winged aliens are drawing near the city. We already dispatched Ranger 51 patrolling nearby to rush to the site.\nThe winged aliens come in great numbers. Ranger 51 might have certain difficulties to hold the defense line alone. We've formed a reinforcement troop, but it might be too late. Go offer support to Ranger 51."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Secret in the Dark"},
+            {
+              "type": "string",
+              "value": "We've found a new monster cave. The investigation team didn't mention in the report that monsters already started to breed, but somehow we see lots of them.\nAlthough it remains unclear why the monsters have multiplied, we still have to do something. Join the extermination team and enter the cave."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Approaching Monster Balls"},
+            {
+              "type": "string",
+              "value": "There are monsters in the mountain. We suspect them to be Aggressive Alien Species γ.\nPlease report to the extermination team on site and join force."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Threads Everywhere"},
+            {
+              "type": "string",
+              "value": "This is bad. The teleportation anchors have crashed down in a residential area. It looks like they're transporting Aranea. Head to the site at once."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Flying-type Extermination"},
+            {
+              "type": "string",
+              "value": "The objective of this mission is to destroy the nest of the Flying Aggressors.\nSince their queens were wiped out, the defenses of the nest should be much lower. Perfect for us to attack. The powered exoskeletons can eliminate the flying-type first and then the heavy artillery follows to destroy the nest."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Broken Land"},
+            {
+              "type": "string",
+              "value": "Our defense line was destroyed by battle robots; the city was set ablaze by the monsters. Citizens who failed to escape have given up all hope and it's nearly impossible to launch a rescue mission. For now, the enemy in this area has been held back, but destruction is nigh. They have pinned us down, and we are unable to assemble the necessary force to take back the city. But we can't just sit and wait for destruction. We'll launch a raid led by the infantry and reclaim the city."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Sparkling Abyss"},
+            {
+              "type": "string",
+              "value": "A cave with lurking monsters has been found. There's no sign of monsters breeding, yet we have still encountered a lot of them. Go to the site with the extermination team."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Attack of the Flying Fleet"},
+            {
+              "type": "string",
+              "value": "An army of flying objects is attacking the city. They keep striking, gradually turning it into ruins.\nWait on the projected path and attack the flying objects. We don't have enough combat strength, so we'll depend on the infantry unit."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Mountain Traps"},
+            {
+              "type": "string",
+              "value": "Araneas keep rushing out from the teleportation anchors that was dropped in the mountain. The extermination team is heading to the site, but they are struggling with Araneas' webs. They need support from the follow-up force, but our manpower is limited. Please meet up with the follow-up force, and destroy those teleportation anchors protected by Araneas."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Bloody Battle"},
+            {
+              "type": "string",
+              "value": "The enemy infantry begins to strike. Those aliens lead the monsters, forming a devastating legion. We intend to deploy forces in urban areas on the enemy's path and confront them.\n\nConfronting them isn't the best plan, but our combat strength is low and we can't defend a wide area. We can only assemble the remaining force and hit the aliens hard. That's the only way to protect this region.\nIt will be a tough battle. I'll pray for you."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Drop Location"},
+            {
+              "type": "string",
+              "value": "We have confirmed the drop location of the anchors. It's in the mountain, which means it's around current location.\nThe situation is dangerous. Mind the sky.\n\nThere should be Rangers, Wing Divers, and Fencers nearby. Meet up with them and destroy the teleportation anchors."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Land of Monsters"},
+            {
+              "type": "string",
+              "value": "Mother monsters have intruded the city. Lots of eggs are found.\nThis is the first time we find monsters laying eggs on the surface. I'm afraid they are getting used to the environment on Earth.\nIf this continues, this area will be covered by monsters sooner or later. Commence elimination asap."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Steel Covered by Threads"},
+            {
+              "type": "string",
+              "value": "Araneas have invaded the residential area in which many survivors live. Please rush to the scene."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Coastal Defense Line"},
+            {
+              "type": "string",
+              "value": "Mothership No.9, which was moving across the ocean, approached the shore and launched an alien invasion!\nThe air force attack has failed to stop the enemies from landing, and our main ground force can't get there in time. Deploying the units at site to fend off the enemy is our only option. Please hold off the enemy invasion until the reinforcement arrives."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Intense Battle Underground"},
+            {
+              "type": "string",
+              "value": "We found a monster cave close to the drop location of those teleportation anchors. It's possible that the anchors diving deep underground are transporting monsters.\nThe vanguard has headed into the cave and the follow-up force will catch up soon. Go with the reinforcement and support them."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Greatest Final Confrontation"},
+            {
+              "type": "string",
+              "value": "A large alien army is approaching. They not only come in an unprecedented scale, but bring along several Erginuses. They are determined to end this war.\nIt's time for the showdown. With our limited battle force, we should have avoided direct confrontation, but we've got the final trump card especially prepared for this moment.\nI present to you the mobile cranes adapted for battle %dq%War Bargas.%dq% All of them will be deployed to eliminate Erginuses. If we lose this battle, we lose our future. We also plan to deploy as many EMCs and railguns as possible. Win by all means necessary."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Crumbling City"},
+            {
+              "type": "string",
+              "value": "Monsters took over the city. They emerged from underground, breaking through buildings. The city will crumble in no time. There must be citizens who have survived. Now reclaim the city!"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Forced Entry"},
+            {
+              "type": "string",
+              "value": "Multiple motherships have discharged teleportation anchors. The anchors are dropping all over the world, wreaking havoc in those areas.\nIn our area, they are being dropped intensively in the mountains. They teleport not only monsters, but shield bearers too. The mountain area is becoming an enemy fortress.\nAssemble a strike team and destroy the anchors."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Tornado"},
+            {
+              "type": "string",
+              "value": "We have confirmation that aliens are leading monsters in the mountain area. The whole mountain is now under enemy control. Let's commence operation extermination.\nOur current strength is no match to the enemy, but we must fight no matter what. If those monsters start to multiply in the mountain, all hope will be lost."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Against All Odds"},
+            {
+              "type": "string",
+              "value": "Teleportation ships appeared all over the world. All big cities are destructed by the dropping monsters; the number of victims is colossal.\nWe don't have the means to fight back...The infantry unit that has been fighting all the way got separated and is gradually perishing under the monsters' attack.\nThere are also many teleportation ships coming at us. All those who can fight should head out and engage."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Monster Banquet"},
+            {
+              "type": "string",
+              "value": "There are monsters in the city.\nWe are incapable of deploying a massive fighting force. We request the troops close to the scene to deal with the situation.\nDetails...unknown.\nInvestigation team has been sent over. Meet up with them and confirm the situation."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Suicide Squad"},
+            {
+              "type": "string",
+              "value": "Today there's a monster army attacking the city.\nWe did carry out a big-scale extermination operation, but...we lost the battle.\nThe whole troop was wiped out. We couldn't hold off the monster attack, probably because we have lost most of our battle force.\nI'm sorry, but it looks like it's over.\n\nWhat!?\nThere is still a unit fighting against the monsters!\nIt's Storm 4!\nAll units capable of fighting head to the site."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Invader Assembly"},
+            {
+              "type": "string",
+              "value": "We have confirmed the landing location of Mothership No. 11. All those who can fight head out.\n\nBut our troops have been vanquished. It would be a miracle if anyone survived. This operation is doomed..."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Scorched Earth"},
+            {
+              "type": "string",
+              "value": "Enemies are approaching the war zone!\nIt's a whole army!\n\nWhat am I seeing here...\nAll enemies are gathering around Mothership No. 11."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Despair"},
+            {
+              "type": "string",
+              "value": "It looks like Mothership No. 11 that is floating in the sky just dropped something. All troops nearby head out."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "Under Siege"},
+            {
+              "type": "string",
+              "value": "Warnings to the troops on standby! Enemy army incoming!\nWe are surrounded!"
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "No. 11"},
+            {
+              "type": "string",
+              "value": "Mothership No. 11 has arrived above the city. It won't move until it has completely destroyed the entire area.\n\nIt's either us or them. Time to find out."
+            }
+          ]
+        },
+        {
+          "type": "ptr",
+          "value": [
+            {"type": "string", "value": "The Nameless"},
+            {
+              "type": "string",
+              "value": "The Primer's attack has stopped everywhere in the world. The ship that we shot down was actually the enemy's flagship. A lost cause turned into a surprise victory for humanity.\nBut wait?!\nA living entity in human form appears from the enemy ship. What on earth is going on?\nIt doesn't seem armed though. Infantry unit approach and capture the entity. If it resists, you have permission to shoot and kill."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
