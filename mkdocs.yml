@@ -1,15 +1,21 @@
 site_name: Earth Defense Force 5 - Wiki
+repo_url: https://github.com/botkero/edf5
+repo_name: botkero/edf5
 
 theme:
   name: material
   logo: images/edf5_logo_small.png
   favicon: images/edf5_logo_small.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/file-edit
   features:
     - navigation.indexes
     # - navigation.sections
     # - navigation.tabs
     - navigation.top
     - navigation.tracking
+    - content.action.edit
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -58,4 +64,5 @@ plugins:
           - skip-lightbox
   - git-revision-date-localized
 
-
+extra_css:
+  - stylesheets/extra.css
