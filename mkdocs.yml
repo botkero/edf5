@@ -16,6 +16,7 @@ theme:
     - navigation.top
     - navigation.tracking
     - content.action.edit
+    - navigation.footer
   palette:
     # Palette toggle for dark mode
     - scheme: slate
