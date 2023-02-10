@@ -1,153 +1,184 @@
-{
-  "format": "SGO",
-  "endian": "LE",
-  "version": 258,
-  "variables": [
-    {
-      "name": "table",
-      "type": "ptr",
-      "value": [
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Teleportation Ships"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: Approach the Teleportation Ships when they are flying low."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Aliens 4"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: The Aliens are carrying a new weapon. You better find cover."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Drones"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: The enemy has dispatched bombers. Don't stay under it and keep a safe distance."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Alien Troops 1"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: The enemy is hiding behind their shields. Infiltrate and destroy it."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Teleportation Anchors 2"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: The teleportation device will enlarge itself during an attack. Use the opportunity to destroy it."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Underground 3"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: Araneas detected. Stay on alert."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Aliens 5"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: The aliens have taken over the city and are patrolling the streets. Stay alert."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Aggressors 5"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: Enter the highly mobile powered exoskeletons that has arrived at the coast and commence operation."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Teleportation Anchors 3"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: Destroy the teleportation anchor as fast as possible. Speed is of the essence."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Alien Troops 2"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: This will be a tough battle. Good luck."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "Engage Mysterious Monster"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: Reinforcements will keep coming in, but their equipment is inadequate. Don't get your hopes up."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "The Last Stand 1"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: This will be a tough fight. Raise your weapon and armor limit before you tackle this challenge."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "The Last Stand 2"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: Enemies will be coming from all sides. Raise your weapon and armor to the limit before you tackle this challenge."
-            }
-          ]
-        },
-        {
-          "type": "ptr",
-          "value": [
-            {"type": "string", "value": "The Last Stand 3"},
-            {
-              "type": "string",
-              "value": "Hints and Tips: This is your final challenge. Take down the mothership."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Teleportation Ships"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: Approach the Teleportation Ships when they are flying low."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Aliens 4"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: The Aliens are carrying a new weapon. You better find cover."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Drones"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: The enemy has dispatched bombers. Don't stay under it and keep a safe distance."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Alien Troops 1"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: The enemy is hiding behind their shields. Infiltrate and destroy it."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Teleportation Anchors 2"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: The teleportation device will enlarge itself during an attack. Use the opportunity to destroy it."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Underground 3"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: Araneas detected. Stay on alert."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Aliens 5"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: The aliens have taken over the city and are patrolling the streets. Stay alert."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Aggressors 5"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: Enter the highly mobile powered exoskeletons that has arrived at the coast and commence operation."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Teleportation Anchors 3"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: Destroy the teleportation anchor as fast as possible. Speed is of the essence."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Alien Troops 2"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: This will be a tough battle. Good luck."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "Engage Mysterious Monster"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: Reinforcements will keep coming in, but their equipment is inadequate. Don't get your hopes up."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "The Last Stand 1"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: This will be a tough fight. Raise your weapon and armor limit before you tackle this challenge."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "The Last Stand 2"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: Enemies will be coming from all sides. Raise your weapon and armor to the limit before you tackle this challenge."
+      }
+    ]
+  },
+  {
+    "type": "ptr",
+    "value": [
+      {
+        "type": "string",
+        "value": "The Last Stand 3"
+      },
+      {
+        "type": "string",
+        "value": "Hints and Tips: This is your final challenge. Take down the mothership."
+      }
+    ]
+  }
+]
