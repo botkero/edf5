@@ -1,6 +1,7 @@
 site_name: Earth Defense Force 5 - Wiki
 repo_url: https://github.com/botkero/edf5
 repo_name: botkero/edf5
+edit_uri: blob/main/docs/
 
 theme:
   name: material
@@ -11,8 +12,8 @@ theme:
     edit: material/file-edit
   features:
     - navigation.indexes
-    # - navigation.sections
-    # - navigation.tabs
+    - navigation.instant
+    - header.autohide
     - navigation.top
     - navigation.tracking
     - content.action.edit
