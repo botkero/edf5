@@ -1,9 +1,15 @@
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 !!! warning "Work in Progress"
 
 # Home
 
 <figure markdown>
-  ![EDF5](images/edf5_logo.png){ .off-glb style="width: 75vh;"}
+  ![EDF5](images/edf5_logo.png){ .off-glb style="width: 50vh;"}
 </figure>
 
 Humanity, fight against fate.
