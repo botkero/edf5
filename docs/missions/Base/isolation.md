@@ -1,7 +1,7 @@
 # Isolation
 
 <figure markdown>
-![Isolation](../images/missions_thumbnails/M011.jpg)
+  ![Isolation](../../images/missions_thumbnails/M011.jpg)
 </figure>
 
 Oh, it's you!?

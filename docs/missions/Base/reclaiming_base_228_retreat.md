@@ -1,7 +1,7 @@
 # Reclaiming Base 228: Retreat
 
 <figure markdown>
-![Reclaiming Base 228: Retreat](../images/missions_thumbnails/M072_3.jpg)
+  ![Reclaiming Base 228: Retreat](../../images/missions_thumbnails/M072_3.jpg)
 </figure>
 
 Well done. Mission complete.

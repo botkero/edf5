@@ -1,7 +1,7 @@
 # Secret in the Dark
 
 <figure markdown>
-![Secret in the Dark](../images/missions_thumbnails/M057.jpg)
+  ![Secret in the Dark](../../images/missions_thumbnails/M057.jpg)
 </figure>
 
 We've found a new monster cave. The investigation team didn't mention in the report that monsters already started to breed, but somehow we see lots of them.

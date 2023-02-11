@@ -1,7 +1,7 @@
 # Mastermind Revealed
 
 <figure markdown>
-![Mastermind Revealed](../images/missions_thumbnails/M012.jpg)
+  ![Mastermind Revealed](../../images/missions_thumbnails/M012.jpg)
 </figure>
 
 The alien infantry keeps coming in. They split their main force into smaller teams and take over the territories in a greater scale.

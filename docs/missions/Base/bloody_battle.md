@@ -1,7 +1,7 @@
 # Bloody Battle
 
 <figure markdown>
-![Bloody Battle](../images/missions_thumbnails/M075.jpg)
+  ![Bloody Battle](../../images/missions_thumbnails/M075.jpg)
 </figure>
 
 The enemy infantry begins to strike. Those aliens lead the monsters, forming a devastating legion. We intend to deploy forces in urban areas on the enemy's path and confront them.

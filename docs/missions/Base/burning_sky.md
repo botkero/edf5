@@ -1,7 +1,7 @@
 # Burning Sky
 
 <figure markdown>
-![Burning Sky](../images/missions_thumbnails/M015_2.jpg)
+  ![Burning Sky](../../images/missions_thumbnails/M015_2.jpg)
 </figure>
 
 It looks like a troop of large flying saucers is coming this way. It is trying to pass through this area and drop the monsters in the city. If it succeeds, it will result in unimaginable casualties. We must stop it here and now.

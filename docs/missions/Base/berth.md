@@ -1,7 +1,7 @@
 # Berth
 
 <figure markdown>
-![Berth](../images/missions_thumbnails/M020.jpg)
+  ![Berth](../../images/missions_thumbnails/M020.jpg)
 </figure>
 
 The teleportation ships are gathering along the shore. The ships stay low and still as if they are resting. So far, seven of them are spotted. The shore has become the enemy harbor. Compared with the number of enemy ships, there are hardely any defensive weapons, so it is perfect for assault. The infantry should be able to draw close without being noticed.

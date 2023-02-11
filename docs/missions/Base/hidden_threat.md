@@ -1,7 +1,7 @@
 # Hidden Threat
 
 <figure markdown>
-![Hidden Threat](../images/missions_thumbnails/M200.jpg)
+  ![Hidden Threat](../../images/missions_thumbnails/M200.jpg)
 </figure>
 
 Monsters are in the city!

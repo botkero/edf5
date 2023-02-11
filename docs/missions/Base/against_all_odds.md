@@ -1,7 +1,7 @@
 # Against All Odds
 
 <figure markdown>
-![Against All Odds](../images/missions_thumbnails/M070.jpg)
+  ![Against All Odds](../../images/missions_thumbnails/M070.jpg)
 </figure>
 
 Teleportation ships appeared all over the world. All big cities are destructed by the dropping monsters; the number of victims is colossal.

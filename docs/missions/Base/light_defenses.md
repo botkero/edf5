@@ -1,7 +1,7 @@
 # Light Defenses
 
 <figure markdown>
-![Light Defenses](../images/missions_thumbnails/M051.jpg)
+  ![Light Defenses](../../images/missions_thumbnails/M051.jpg)
 </figure>
 
 A great number of teleportation anchors have landed in the urban area. Not only aliens are being transmitted, but shield bearers too. This neighborhood has been in the aliens' hand.

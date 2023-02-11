@@ -1,7 +1,7 @@
 # Forced Entry
 
 <figure markdown>
-![Forced Entry](../images/missions_thumbnails/M052.jpg)
+  ![Forced Entry](../../images/missions_thumbnails/M052.jpg)
 </figure>
 
 Multiple motherships have discharged teleportation anchors. The anchors are dropping all over the world, wreaking havoc in those areas.

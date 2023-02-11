@@ -1,7 +1,7 @@
 # Destroy the Outpost: Plan B
 
 <figure markdown>
-![Destroy the Outpost: Plan B](../images/missions_thumbnails/M021.jpg)
+  ![Destroy the Outpost: Plan B](../../images/missions_thumbnails/M021.jpg)
 </figure>
 
 Emergency.

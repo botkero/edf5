@@ -1,7 +1,7 @@
 # Greatest Final Confrontation
 
 <figure markdown>
-![Greatest Final Confrontation](../images/missions_thumbnails/M079.jpg)
+  ![Greatest Final Confrontation](../../images/missions_thumbnails/M079.jpg)
 </figure>
 
 A large alien army is approaching. They not only come in an unprecedented scale, but bring along several Erginuses. They are determined to end this war.

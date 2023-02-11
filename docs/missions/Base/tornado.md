@@ -1,7 +1,7 @@
 # Tornado
 
 <figure markdown>
-![Tornado](../images/missions_thumbnails/M060.jpg)
+  ![Tornado](../../images/missions_thumbnails/M060.jpg)
 </figure>
 
 We have confirmation that aliens are leading monsters in the mountain area. The whole mountain is now under enemy control. Let's commence operation extermination.

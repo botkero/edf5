@@ -1,7 +1,7 @@
 # Flying Killers
 
 <figure markdown>
-![Flying Killers](../images/missions_thumbnails/M036.jpg)
+  ![Flying Killers](../../images/missions_thumbnails/M036.jpg)
 </figure>
 
 Emergency! We found monsters that can fly.

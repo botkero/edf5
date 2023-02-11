@@ -1,7 +1,7 @@
 # Drop Location
 
 <figure markdown>
-![Drop Location](../images/missions_thumbnails/M066.jpg)
+  ![Drop Location](../../images/missions_thumbnails/M066.jpg)
 </figure>
 
 We have confirmed the drop location of the anchors. It's in the mountain, which means it's around current location.

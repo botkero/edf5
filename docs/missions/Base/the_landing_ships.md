@@ -1,7 +1,7 @@
 # The Landing Ships
 
 <figure markdown>
-![The Landing Ships](../images/missions_thumbnails/M019_5.jpg)
+  ![The Landing Ships](../../images/missions_thumbnails/M019_5.jpg)
 </figure>
 
 The alien landing ships are heading to the city. All units near the projected path please go to the assigned site.

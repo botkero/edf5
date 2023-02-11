@@ -1,7 +1,7 @@
 # Break the Barrier
 
 <figure markdown>
-![Break the Barrier](../images/missions_thumbnails/M050.jpg)
+  ![Break the Barrier](../../images/missions_thumbnails/M050.jpg)
 </figure>
 
 The Rangers in combat with the aliens are wiped out because the alien troops are escorted by the new weapon shield bearers.

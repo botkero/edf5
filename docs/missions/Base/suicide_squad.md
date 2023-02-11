@@ -1,7 +1,7 @@
 # Suicide Squad
 
 <figure markdown>
-![Suicide Squad](../images/missions_thumbnails/M071.jpg)
+  ![Suicide Squad](../../images/missions_thumbnails/M071.jpg)
 </figure>
 
 Today there's a monster army attacking the city.

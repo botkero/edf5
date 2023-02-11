@@ -1,7 +1,7 @@
 # Intense Battle Underground
 
 <figure markdown>
-![Intense Battle Underground](../images/missions_thumbnails/M204.jpg)
+  ![Intense Battle Underground](../../images/missions_thumbnails/M204.jpg)
 </figure>
 
 We found a monster cave close to the drop location of those teleportation anchors. It's possible that the anchors diving deep underground are transporting monsters.

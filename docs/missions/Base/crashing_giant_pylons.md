@@ -1,7 +1,7 @@
 # Crashing Giant Pylons
 
 <figure markdown>
-![Crashing Giant Pylons](../images/missions_thumbnails/M065.jpg)
+  ![Crashing Giant Pylons](../../images/missions_thumbnails/M065.jpg)
 </figure>
 
 The motherships launched teleportation anchors. They will be here soon.

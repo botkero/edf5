@@ -1,7 +1,7 @@
 # The Flying Saucers
 
 <figure markdown>
-![The Flying Saucers](../images/missions_thumbnails/M046_1.jpg)
+  ![The Flying Saucers](../../images/missions_thumbnails/M046_1.jpg)
 </figure>
 
 The motherships keep dropping drones in the city and damage continues to spread. Our airplanes are blocked by drones and fail to approach.

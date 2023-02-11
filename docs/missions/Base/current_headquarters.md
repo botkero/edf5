@@ -1,7 +1,7 @@
 # Current Headquarters
 
 <figure markdown>
-![Current Headquarters](../images/missions_thumbnails/M034_3.jpg)
+  ![Current Headquarters](../../images/missions_thumbnails/M034_3.jpg)
 </figure>
 
 You made it too.

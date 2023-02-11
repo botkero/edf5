@@ -1,7 +1,7 @@
 # Circle Formation
 
 <figure markdown>
-![Circle Formation](../images/missions_thumbnails/M031.jpg)
+  ![Circle Formation](../../images/missions_thumbnails/M031.jpg)
 </figure>
 
 We found a team of teleportation ships. They will soon reach the sky above the city.

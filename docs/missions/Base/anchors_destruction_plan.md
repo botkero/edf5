@@ -1,7 +1,7 @@
 # Anchors Destruction Plan
 
 <figure markdown>
-![Anchors Destruction Plan](../images/missions_thumbnails/M091_3.jpg)
+  ![Anchors Destruction Plan](../../images/missions_thumbnails/M091_3.jpg)
 </figure>
 
 A lot of teleportation anchors crashed into the city and a horde of monsters now show up.

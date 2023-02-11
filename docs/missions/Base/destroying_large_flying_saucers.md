@@ -1,7 +1,7 @@
 # Destroying Large Flying Saucers
 
 <figure markdown>
-![Destroying Large Flying Saucers](../images/missions_thumbnails/M091_2.jpg)
+  ![Destroying Large Flying Saucers](../../images/missions_thumbnails/M091_2.jpg)
 </figure>
 
 Multiple teleportation ships are found dropping monsters in the mountain.

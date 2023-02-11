@@ -1,7 +1,7 @@
 # Iron Wall
 
 <figure markdown>
-![Iron Wall](../images/missions_thumbnails/M026.jpg)
+  ![Iron Wall](../../images/missions_thumbnails/M026.jpg)
 </figure>
 
 A large number of aliens are approaching. We're supposed to avoid direct confrontation, but the evacuation progress in the city is falling behind schedule. We must stop them or they'll cause the city significant harm.

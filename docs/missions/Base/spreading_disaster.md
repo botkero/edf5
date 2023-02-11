@@ -1,7 +1,7 @@
 # Spreading Disaster
 
 <figure markdown>
-![Spreading Disaster](../images/missions_thumbnails/M008.jpg)
+  ![Spreading Disaster](../../images/missions_thumbnails/M008.jpg)
 </figure>
 
 Large flying saucers have invaded the city and are dropping monsters.

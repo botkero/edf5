@@ -1,7 +1,7 @@
 # Incoming Larvae
 
 <figure markdown>
-![Incoming Larvae](../images/missions_thumbnails/M059.jpg)
+  ![Incoming Larvae](../../images/missions_thumbnails/M059.jpg)
 </figure>
 
 The winged aliens are drawing near the city. We already dispatched Ranger 51 patrolling nearby to rush to the site.

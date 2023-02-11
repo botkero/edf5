@@ -1,7 +1,7 @@
 # Red Drones
 
 <figure markdown>
-![Red Drones](../images/missions_thumbnails/M019.jpg)
+  ![Red Drones](../../images/missions_thumbnails/M019.jpg)
 </figure>
 
 This mission aims to destroy those drones flying into the city. Equip anti-air weapons and head to the site.

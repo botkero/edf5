@@ -9,7 +9,7 @@
 # Home
 
 <figure markdown>
-  ![EDF5](images/edf5_logo.png){ .off-glb style="width: 50vh;"}
+  ![EDF5](images/edf5_logo.png){ .off-glb style="width: 500px;"}
 </figure>
 
 Humanity, fight against fate.

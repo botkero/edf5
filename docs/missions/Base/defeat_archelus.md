@@ -1,7 +1,7 @@
 # Defeat Archelus
 
 <figure markdown>
-![Defeat Archelus](../images/missions_thumbnails/M072_4.jpg)
+  ![Defeat Archelus](../../images/missions_thumbnails/M072_4.jpg)
 </figure>
 
 We have finished Barga's maintenance. Next we're going to eliminate Archelus.

@@ -1,7 +1,7 @@
 # Eradication Plan
 
 <figure markdown>
-![Eradication Plan](../images/missions_thumbnails/M016.jpg)
+  ![Eradication Plan](../../images/missions_thumbnails/M016.jpg)
 </figure>
 
 Monsters are spotted in the city. Please eliminate them with the extermination squad.

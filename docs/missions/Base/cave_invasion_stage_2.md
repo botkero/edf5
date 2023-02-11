@@ -1,7 +1,7 @@
 # Cave Invasion Stage 2
 
 <figure markdown>
-![Cave Invasion Stage 2](../images/missions_thumbnails/M028.jpg)
+  ![Cave Invasion Stage 2](../../images/missions_thumbnails/M028.jpg)
 </figure>
 
 The scout found a giant chasm.

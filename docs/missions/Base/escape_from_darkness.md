@@ -1,7 +1,7 @@
 # Escape from Darkness
 
 <figure markdown>
-![Escape from Darkness](../images/missions_thumbnails/M001.jpg)
+  ![Escape from Darkness](../../images/missions_thumbnails/M001.jpg)
 </figure>
 
 The monsters came from nowhere and we don't know if there are more of them lurking in the dark. And to make it worse, we can't make contact with the ground. We're stranded at the bottom of the base.

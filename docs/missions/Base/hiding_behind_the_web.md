@@ -1,7 +1,7 @@
 # Hiding behind the Web
 
 <figure markdown>
-![Hiding behind the Web](../images/missions_thumbnails/M053.jpg)
+  ![Hiding behind the Web](../../images/missions_thumbnails/M053.jpg)
 </figure>
 
 A new species of monster is found. They set up large webs everywhere in the city and move across those webs.

@@ -1,7 +1,7 @@
 # Mountain of Wedges
 
 <figure markdown>
-![Mountain of Wedges](../images/missions_thumbnails/M024.jpg)
+  ![Mountain of Wedges](../../images/missions_thumbnails/M024.jpg)
 </figure>
 
 Lots of monsters are found in the mountain. There are traces of pylons crashing down, so we suspect those monsters were transmitted by the teleportation devices.

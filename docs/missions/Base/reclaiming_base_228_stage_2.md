@@ -1,7 +1,7 @@
 # Reclaiming Base 228: Stage 2
 
 <figure markdown>
-![Reclaiming Base 228: Stage 2](../images/missions_thumbnails/M072_1.jpg)
+  ![Reclaiming Base 228: Stage 2](../../images/missions_thumbnails/M072_1.jpg)
 </figure>
 
 You have approached the base successfully.

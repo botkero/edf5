@@ -1,7 +1,7 @@
 # Plain of Conflict
 
 <figure markdown>
-![Plain of Conflict](../images/missions_thumbnails/M034.jpg)
+  ![Plain of Conflict](../../images/missions_thumbnails/M034.jpg)
 </figure>
 
 The aliens are spreading around the world. It looks like our enemy is ready for a full scale assault.

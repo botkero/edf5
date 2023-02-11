@@ -1,7 +1,7 @@
 # Airborne Fighters: Part 1
 
 <figure markdown>
-![Airborne Fighters: Part 1](../images/missions_thumbnails/M047.jpg)
+  ![Airborne Fighters: Part 1](../../images/missions_thumbnails/M047.jpg)
 </figure>
 
 A mothership is passing over the city's sky. Mothership no.2 will launch new type battle robots and this area might be their target.

@@ -1,7 +1,7 @@
 # Assaulting the Outpost
 
 <figure markdown>
-![Assaulting the Outpost](../images/missions_thumbnails/M035.jpg)
+  ![Assaulting the Outpost](../../images/missions_thumbnails/M035.jpg)
 </figure>
 
 We won the tough battle and succeeded in defending this area. We not only stopped the enemy from attacking, but greatly weakened their forces. Although we have taken heavy casualties too, this is the best chance to strike back. We will round up all possible forces to destroy the enemy outpost.

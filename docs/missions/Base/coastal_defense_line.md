@@ -1,7 +1,7 @@
 # Coastal Defense Line
 
 <figure markdown>
-![Coastal Defense Line](../images/missions_thumbnails/M046_2.jpg)
+  ![Coastal Defense Line](../../images/missions_thumbnails/M046_2.jpg)
 </figure>
 
 Mothership No.9, which was moving across the ocean, approached the shore and launched an alien invasion!

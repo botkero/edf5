@@ -1,7 +1,7 @@
 # Doomed Queens
 
 <figure markdown>
-![Doomed Queens](../images/missions_thumbnails/M074.jpg)
+  ![Doomed Queens](../../images/missions_thumbnails/M074.jpg)
 </figure>
 
 Multiple queens were defending the nest of the flying-type, but suddenly all queens started to move. They led numerous flying-types to the mountain and gathered there.

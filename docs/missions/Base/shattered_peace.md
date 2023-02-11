@@ -1,7 +1,7 @@
 # Shattered Peace
 
 <figure markdown>
-![Shattered Peace](../images/missions_thumbnails/M005.jpg)
+  ![Shattered Peace](../../images/missions_thumbnails/M005.jpg)
 </figure>
 
 Head out to the city ahead.

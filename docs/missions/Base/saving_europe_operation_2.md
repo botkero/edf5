@@ -1,7 +1,7 @@
 # Saving Europe: Operation 2
 
 <figure markdown>
-![Saving Europe: Operation 2](../images/missions_thumbnails/M033.jpg)
+  ![Saving Europe: Operation 2](../../images/missions_thumbnails/M033.jpg)
 </figure>
 
 The motherships will fly over our airspace in a few hours. We suspect those motherships will drop teleportation anchors in this area. If the anchors  crash down into the city, they will cause severe casualties.

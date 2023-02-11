@@ -1,7 +1,7 @@
 # Flying-type Extermination
 
 <figure markdown>
-![Flying-type Extermination](../images/missions_thumbnails/M039.jpg)
+  ![Flying-type Extermination](../../images/missions_thumbnails/M039.jpg)
 </figure>
 
 The objective of this mission is to destroy the nest of the Flying Aggressors.

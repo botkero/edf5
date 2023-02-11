@@ -1,7 +1,7 @@
 # Land of Monsters
 
 <figure markdown>
-![Land of Monsters](../images/missions_thumbnails/M073_5.jpg)
+  ![Land of Monsters](../../images/missions_thumbnails/M073_5.jpg)
 </figure>
 
 Mother monsters have intruded the city. Lots of eggs are found.

@@ -1,7 +1,7 @@
 # Monster Banquet
 
 <figure markdown>
-![Monster Banquet](../images/missions_thumbnails/M078.jpg)
+  ![Monster Banquet](../../images/missions_thumbnails/M078.jpg)
 </figure>
 
 There are monsters in the city.

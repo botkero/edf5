@@ -1,7 +1,7 @@
 # Survivors
 
 <figure markdown>
-![Survivors](../images/missions_thumbnails/M042.jpg)
+  ![Survivors](../../images/missions_thumbnails/M042.jpg)
 </figure>
 
 Our units got attacked by the aliens and disintegrated. The survivors seem to scatter around hiding in the buildings.

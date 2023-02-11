@@ -1,7 +1,7 @@
 # Scorched Earth
 
 <figure markdown>
-![Scorched Earth](../images/missions_thumbnails/M081.jpg)
+  ![Scorched Earth](../../images/missions_thumbnails/M081.jpg)
 </figure>
 
 Enemies are approaching the war zone!

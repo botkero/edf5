@@ -1,7 +1,7 @@
 # Secret of the Cave
 
 <figure markdown>
-![Secret of the Cave](../images/missions_thumbnails/M014.jpg)
+  ![Secret of the Cave](../../images/missions_thumbnails/M014.jpg)
 </figure>
 
 We have confirmed a cave that could be the monster's nest. We knew that monsters would move underground, but it's our first time ever to witness them lurking underground.

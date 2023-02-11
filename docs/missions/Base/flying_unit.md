@@ -1,7 +1,7 @@
 # Flying Unit
 
 <figure markdown>
-![Flying Unit](../images/missions_thumbnails/M068.jpg)
+  ![Flying Unit](../../images/missions_thumbnails/M068.jpg)
 </figure>
 
 Europe is requesting for support!

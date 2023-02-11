@@ -1,7 +1,7 @@
 # Attack of the Flying Fleet
 
 <figure markdown>
-![Attack of the Flying Fleet](../images/missions_thumbnails/M069.jpg)
+  ![Attack of the Flying Fleet](../../images/missions_thumbnails/M069.jpg)
 </figure>
 
 An army of flying objects is attacking the city. They keep striking, gradually turning it into ruins.
