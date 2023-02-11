@@ -3,3 +3,6 @@ __pycache__/
 data/
 docs/missions/mission/createmissions.py
 EDFweapons/
+SGO/
+DEST/
+DEST_FINAL/
