@@ -19,3 +19,18 @@
 .banner-overlay:hover {
     transform: scale(.98);
 }
+
+.mission-easy {
+    border: 3px solid green;
+    border-radius: 5px;
+}
+
+.mission-medium {
+    border: 3px solid goldenrod;
+    border-radius: 5px;
+}
+
+.mission-hard {
+    border: 3px solid darkred;
+    border-radius: 5px;
+}
