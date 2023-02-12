@@ -1,3 +1,11 @@
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>
+
+# Classes
+
 [![Ranger](../images/edf_intro_main01.png){ .off-glb style="width: 420px;" }](ranger.md) 
 [![Wing Diver](../images/edf_intro_main02.png){ .off-glb  style="width: 420px;" }](wing_diver.md)  
 [![Fencer](../images/edf_intro_main03.png){ .off-glb style="width: 420px;" }](fencer.md)
