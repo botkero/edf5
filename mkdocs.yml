@@ -62,8 +62,6 @@ plugins:
   - include-markdown
   - search
   - glightbox:
-      skip_classes:
-          - skip-lightbox
   - git-revision-date-localized
 
 extra_css:
