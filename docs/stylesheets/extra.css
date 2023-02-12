@@ -3,8 +3,17 @@
 }
 
 .icon-round {
+    position: relative;
+    top: 10px;
     border-radius: 50%;
-    width: 5%;
+    width: 36px;
+}
+
+.big-icon-round {
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+    width: 58px;
 }
 
 .banner-overlay:hover {
