@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 <style>
   .md-content__button {
     display: none;
@@ -6,7 +10,14 @@
 
 # Classes
 
-[![Ranger](../images/edf_intro_main01.png){ .off-glb style="width: 420px;" }](ranger.md) 
-[![Wing Diver](../images/edf_intro_main02.png){ .off-glb  style="width: 420px;" }](wing_diver.md)  
-[![Fencer](../images/edf_intro_main03.png){ .off-glb style="width: 420px;" }](fencer.md)
-[![Air-Raider](../images/edf_intro_main04.png){ .off-glb style="width: 420px;" }](air_raider.md)
+<p markdown>
+
+  [![Ranger](../images/classes/ranger/ranger.png){ .banner-overlay .no-margin style="border-radius: 2%;" loading=lazy }](ranger.md)
+
+  [![Wing Diver](../images/classes/wingdiver/diver05.png){ .banner-overlay .no-margin style="border-radius: 2%;" loading=lazy }](wing_diver.md)
+
+  [![Fencer](../images/classes/fencer/fencer10.png){ .banner-overlay .no-margin style="border-radius: 2%;" loading=lazy }](fencer.md)
+
+  [![Air Raider](../images/classes/airraider/air_raider07.png){ .banner-overlay .no-margin style="border-radius: 2%;" loading=lazy }](air_raider.md)
+
+</p>
