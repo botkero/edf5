@@ -1,0 +1,40 @@
+.md-grid {
+    max-width: 1440px;
+}
+
+.icon-round {
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+    width: 36px;
+}
+
+.big-icon-round {
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+    width: 58px;
+}
+
+.banner-overlay:hover {
+    transform: scale(.98);
+}
+
+.mission-easy {
+    border: 3px solid green;
+    border-radius: 5px;
+}
+
+.mission-medium {
+    border: 3px solid goldenrod;
+    border-radius: 5px;
+}
+
+.mission-hard {
+    border: 3px solid darkred;
+    border-radius: 5px;
+}
+
+p .no-margin {
+    margin: 0;
+}
