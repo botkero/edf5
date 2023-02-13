@@ -1,5 +1,7 @@
 ---
 glightbox: false
+hide:
+  - toc
 ---
 
 <style>
